@@ -739,5 +739,18 @@
     "approved_at": "",
     "sent_at": "",
     "followup": null
+  },
+  {
+    "id": "B092",
+    "brand": "Scuffers",
+    "to": "help@scuffers.com",
+    "language": "en",
+    "subject": "Scuffers x @tommibernaa – creator collaboration",
+    "body": "Hi Scuffers team,\n\nmy name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.\n\nI read that you've never paid influencers and prefer sending clothes to people who genuinely fit the brand, and that's exactly how I'd love to start working with you.\n\nMy idea would be simple to start: you send me a hoodie or a few pieces and I create TikTok videos where I actually wear them, in outfits for nights out and in my everyday IRL videos. If you have other collaboration formats in mind, I'm open to that too.\n\nLet me know if this sounds interesting!\n\n(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)\n\nCheers,\nTommy\nTikTok: @tommibernaa",
+    "personalization_basis": "https://scuffers.com/es/pages/faqs-customer-service (help@) + https://www.elespanol.com/madrid/comunidad/20231208/madrilenos-facturan-mes-sudaderas-scuffers-nathy-peluso-hizo-pedido/815418860_0.html",
+    "approval": "APPROVED",
+    "approved_at": "2026-09-28T16:08:30",
+    "sent_at": "2026-09-28",
+    "followup": null
   }
 ]

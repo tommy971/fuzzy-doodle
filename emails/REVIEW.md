@@ -1,6 +1,6 @@
 # REVIEW – bozze email
 
-Generato il 2026-09-28 · 57 bozze · 37 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
+Generato il 2026-09-28 · 58 bozze · 38 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
 
 | ID | Brand | Email | Categoria | Priorità | Oggetto | Approvazione | Stato |
 |---|---|---|---|---|---|---|---|
@@ -14,6 +14,7 @@ Generato il 2026-09-28 · 57 bozze · 37 inviate. Per approvare: `python3 outrea
 | B008 | Dolly Noire | assistenza@dollynoire.com | streetwear | ALTA | Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire | APPROVED | CONTATTATO |
 | B070 | Montirex | influencers@montirex.com | streetwear / athleisure | ALTA | Influencer application – Tommy (@tommibernaa, TikTok) | APPROVED | CONTATTATO |
 | B071 | Happy Socks | collaborations@happysocks.com | calze / accessori | ALTA | Happy Socks x @tommibernaa – TikTok collab idea | APPROVED | EMAIL RIMBALZATA |
+| B092 | Scuffers | help@scuffers.com | streetwear (felpe, hoodie) | ALTA | Scuffers x @tommibernaa – creator collaboration | APPROVED | CONTATTATO |
 | B009 | Malelions | marketing@malelions.com | streetwear uomo | MEDIA | Malelions x @tommibernaa – collaboration proposal | APPROVED | CONTATTATO |
 | B010 | Fred Mello | pressoffice@5fiveseasons.it | abbigliamento uomo casual | MEDIA | Proposta di collaborazione TikTok – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
 | B011 | Enterprise Japan | info@enterprise-japan.com | streetwear / sneakers | MEDIA | Enterprise Japan x @tommibernaa – idea per TikTok | APPROVED | CONTATTATO |
@@ -290,6 +291,31 @@ Your help center says social media collaborations go through this address. Colou
 My idea would be simple to start: you send me a few pairs and I create TikTok videos where I actually wear them, styled in real outfits for nights out and everyday life. If you have other collaboration formats in mind, I'm open to that too.
 
 Let me know if this sounds interesting!
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B092 · Scuffers (ALTA)
+
+- **Destinatario:** help@scuffers.com (customer care)
+- **Oggetto:** Scuffers x @tommibernaa – creator collaboration
+- **Fonte contatto:** https://scuffers.com/es/pages/faqs-customer-service (help@) + https://www.elespanol.com/madrid/comunidad/20231208/madrilenos-facturan-mes-sudaderas-scuffers-nathy-peluso-hizo-pedido/815418860_0.html
+- **Note:** Richiesto direttamente da Tommy. Unica email pubblica = help@ (customer care); alternativa DM Instagram @scuffers.co. Indirizzi nominativi dei fondatori NON usati.
+
+```text
+Hi Scuffers team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+I read that you've never paid influencers and prefer sending clothes to people who genuinely fit the brand, and that's exactly how I'd love to start working with you.
+
+My idea would be simple to start: you send me a hoodie or a few pieces and I create TikTok videos where I actually wear them, in outfits for nights out and in my everyday IRL videos. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
 
 Cheers,
 Tommy
