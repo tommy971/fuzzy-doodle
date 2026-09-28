@@ -1,6 +1,6 @@
 # REVIEW – bozze email
 
-Generato il 2026-09-28 · 57 bozze · 32 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
+Generato il 2026-09-28 · 57 bozze · 37 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
 
 | ID | Brand | Email | Categoria | Priorità | Oggetto | Approvazione | Stato |
 |---|---|---|---|---|---|---|---|
@@ -36,11 +36,11 @@ Generato il 2026-09-28 · 57 bozze · 32 inviate. Per approvare: `python3 outrea
 | B032 | Pompeii | contact@pompeiibrand.com | sneakers | MEDIA | Pompeii x @tommibernaa – TikTok collab idea | APPROVED | CONTATTATO |
 | B072 | Gianni Lupo | info@giannilupo.it | abbigliamento uomo | MEDIA | Collaborazione TikTok – Tommy (@tommibernaa) x Gianni Lupo | APPROVED | CONTATTATO |
 | B073 | The Couture Club | info@thecoutureclub.co.uk | streetwear | MEDIA | The Couture Club x @tommibernaa – collaboration idea | APPROVED | CONTATTATO |
-| B081 | GCDS | press@gcds.it | streetwear (felpe, t-shirt) | MEDIA | GCDS x @tommibernaa – proposta di collaborazione | PENDING | DA CONTATTARE |
-| B082 | Daily Paper | info@dailypaperclothing.com | streetwear | MEDIA | Daily Paper x @tommibernaa – creator collaboration | PENDING | DA CONTATTARE |
-| B083 | Represent | press@representclo.com | streetwear (felpe, t-shirt) | MEDIA | Represent x @tommibernaa – creator collaboration | PENDING | DA CONTATTARE |
-| B084 | Barrow | info@barrowofficial.com | streetwear (felpe, t-shirt) | MEDIA | Barrow x @tommibernaa – collaborazione TikTok | PENDING | DA CONTATTARE |
-| B085 | Champion Europe | marketing.chpeu@orbico.com | felpe / sportswear | MEDIA | Collaborazione TikTok – Tommy (@tommibernaa) x Champion | PENDING | DA CONTATTARE |
+| B081 | GCDS | press@gcds.it | streetwear (felpe, t-shirt) | MEDIA | GCDS x @tommibernaa – proposta di collaborazione | APPROVED | CONTATTATO |
+| B082 | Daily Paper | info@dailypaperclothing.com | streetwear | MEDIA | Daily Paper x @tommibernaa – creator collaboration | APPROVED | CONTATTATO |
+| B083 | Represent | press@representclo.com | streetwear (felpe, t-shirt) | MEDIA | Represent x @tommibernaa – creator collaboration | APPROVED | CONTATTATO |
+| B084 | Barrow | info@barrowofficial.com | streetwear (felpe, t-shirt) | MEDIA | Barrow x @tommibernaa – collaborazione TikTok | APPROVED | CONTATTATO |
+| B085 | Champion Europe | marketing.chpeu@orbico.com | felpe / sportswear | MEDIA | Collaborazione TikTok – Tommy (@tommibernaa) x Champion | APPROVED | CONTATTATO |
 | B015 | Imperial Fashion | customercare@imperialfashion.com | abbigliamento uomo/donna | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
 | B019 | Hinnominate | customercare@hinnominate.com | street couture | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) x Hinnominate | PENDING | DA CONTATTARE |
 | B020 | ButNot | info@butnot.it | streetwear | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
