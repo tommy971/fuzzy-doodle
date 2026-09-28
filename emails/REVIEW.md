@@ -13,7 +13,7 @@ Generato il 2026-09-28 · 49 bozze · 10 inviate. Per approvare: `python3 outrea
 | B007 | Phobia Archive | hello@phobia-archive.com | streetwear | ALTA | Phobia Archive x @tommibernaa – proposta di collaborazione | APPROVED | EMAIL RIMBALZATA |
 | B008 | Dolly Noire | assistenza@dollynoire.com | streetwear | ALTA | Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire | APPROVED | CONTATTATO |
 | B070 | Montirex | influencers@montirex.com | streetwear / athleisure | ALTA | Influencer application – Tommy (@tommibernaa, TikTok) | APPROVED | CONTATTATO |
-| B071 | Happy Socks | collaborations@happysocks.com | calze / accessori | ALTA | Happy Socks x @tommibernaa – TikTok collab idea | APPROVED | CONTATTATO |
+| B071 | Happy Socks | collaborations@happysocks.com | calze / accessori | ALTA | Happy Socks x @tommibernaa – TikTok collab idea | APPROVED | EMAIL RIMBALZATA |
 | B009 | Malelions | marketing@malelions.com | streetwear uomo | MEDIA | Malelions x @tommibernaa – collaboration proposal | PENDING | DA CONTATTARE |
 | B010 | Fred Mello | pressoffice@5fiveseasons.it | abbigliamento uomo casual | MEDIA | Proposta di collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
 | B011 | Enterprise Japan | info@enterprise-japan.com | streetwear / sneakers | MEDIA | Enterprise Japan x @tommibernaa – idea per TikTok | PENDING | DA CONTATTARE |
@@ -270,7 +270,7 @@ TikTok: @tommibernaa
 - **Destinatario:** collaborations@happysocks.com (collaborazioni social (team social media))
 - **Oggetto:** Happy Socks x @tommibernaa – TikTok collab idea
 - **Fonte contatto:** support.happysocks.com: 'I want to collaborate with Happy Socks on Social Media' -> collaborations@
-- **Note:** marketing@happysocks.com = PR/marketing.
+- **Note:** marketing@happysocks.com = PR/marketing. | rimbalzata 2026-09-28: 550 casella inesistente (DSN 1a0e8b0dffedd58c). Alternativa dallo stesso help center: marketing@happysocks.com (non verificata, serve nuova approvazione)
 
 ```text
 Hi Happy Socks team,
