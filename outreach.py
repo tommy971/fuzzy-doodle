@@ -15,6 +15,7 @@ Usage:
   python3 outreach.py followups [--days 7] [--today YYYY-MM-DD]
   python3 outreach.py approve-followup ID [ID ...]
   python3 outreach.py mark-followup-sent ID --message-id M [--date YYYY-MM-DD]
+  python3 outreach.py mark-bounced ID [--note "..."]
   python3 outreach.py set-response ID STATUS [--text "..."]
   python3 outreach.py do-not-contact ID [--reason "..."]
   python3 outreach.py export-review
@@ -285,6 +286,21 @@ def cmd_mark_sent(args):
     print(f"{i} {b['brand']}: CONTATTATO il {b['date_contacted']}, follow-up dal {b['follow_up_date']}")
 
 
+def cmd_mark_bounced(args):
+    fields, rows = load_brands()
+    brands = by_id(rows)
+    [i] = resolve_ids([args.id], rows)
+    b = brands[i]
+    if b["status"] != "CONTATTATO":
+        die(f"{i} ha stato {b['status']}: si registra un rimbalzo solo dopo un invio")
+    b["status"] = "EMAIL RIMBALZATA"
+    b["follow_up_date"] = ""
+    note = f"rimbalzata {dt.date.today().isoformat()}" + (f": {args.note}" if args.note else "")
+    b["notes"] = (b["notes"] + " | " + note).strip(" |")
+    save_brands(fields, rows)
+    print(f"{i} {b['brand']}: EMAIL RIMBALZATA (nessun follow-up). Cercare un contatto alternativo.")
+
+
 FOLLOWUP_IT = (
     "Ciao team {brand},\n\n"
     "vi riscrivo solo per riportare in cima la mia mail di qualche giorno fa: mi farebbe davvero piacere "
@@ -482,6 +498,7 @@ def main():
     p = sub.add_parser("show-followup"); p.add_argument("ids", nargs="+"); p.set_defaults(fn=cmd_show_followup)
     p = sub.add_parser("approve-followup"); p.add_argument("ids", nargs="+"); p.set_defaults(fn=cmd_approve_followup)
     p = sub.add_parser("mark-followup-sent"); p.add_argument("id"); p.add_argument("--message-id", required=True); p.add_argument("--date"); p.set_defaults(fn=cmd_mark_followup_sent)
+    p = sub.add_parser("mark-bounced"); p.add_argument("id"); p.add_argument("--note"); p.set_defaults(fn=cmd_mark_bounced)
     p = sub.add_parser("set-response"); p.add_argument("id"); p.add_argument("status"); p.add_argument("--text"); p.set_defaults(fn=cmd_set_response)
     p = sub.add_parser("do-not-contact"); p.add_argument("id"); p.add_argument("--reason"); p.set_defaults(fn=cmd_do_not_contact)
     p = sub.add_parser("export-review"); p.set_defaults(fn=cmd_export_review)

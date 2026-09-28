@@ -1,17 +1,17 @@
 # REVIEW – bozze email
 
-Generato il 2026-09-28 · 44 bozze · 0 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
+Generato il 2026-09-28 · 44 bozze · 8 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
 
 | ID | Brand | Email | Categoria | Priorità | Oggetto | Approvazione | Stato |
 |---|---|---|---|---|---|---|---|
-| B001 | Quotrell | marketing@quotrell.com | streetwear / casual | ALTA | Creator collaboration – Tommy (@tommibernaa) x Quotrell | PENDING | DA CONTATTARE |
-| B002 | Colourful Rebel | pr@colourfulrebel.com | streetwear / casual | ALTA | Colourful Rebel x @tommibernaa – TikTok collab idea | PENDING | DA CONTATTARE |
-| B003 | Kapten & Son | press@kapten-son.com | accessori (zaini, orologi, occhiali) | ALTA | Influencer enquiry – Tommy (@tommibernaa, TikTok) | PENDING | DA CONTATTARE |
-| B004 | Nove25 | marketing@nove25.net | gioielli uomo (argento) | ALTA | Candidatura ambassador – Tommy (@tommibernaa, TikTok) | PENDING | DA CONTATTARE |
-| B005 | Ngiolet Jeans | info@ngioletjeans.com | jeans e abbigliamento uomo | ALTA | Brand ambassador Ngiolet – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
-| B006 | Horda Brand | info@hordabrand.com | streetwear Made in Italy | ALTA | Collaborazione TikTok con Horda – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
-| B007 | Phobia Archive | hello@phobia-archive.com | streetwear | ALTA | Phobia Archive x @tommibernaa – proposta di collaborazione | PENDING | DA CONTATTARE |
-| B008 | Dolly Noire | assistenza@dollynoire.com | streetwear | ALTA | Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire | PENDING | DA CONTATTARE |
+| B001 | Quotrell | marketing@quotrell.com | streetwear / casual | ALTA | Creator collaboration – Tommy (@tommibernaa) x Quotrell | APPROVED | CONTATTATO |
+| B002 | Colourful Rebel | pr@colourfulrebel.com | streetwear / casual | ALTA | Colourful Rebel x @tommibernaa – TikTok collab idea | APPROVED | CONTATTATO |
+| B003 | Kapten & Son | press@kapten-son.com | accessori (zaini, orologi, occhiali) | ALTA | Influencer enquiry – Tommy (@tommibernaa, TikTok) | APPROVED | CONTATTATO |
+| B004 | Nove25 | marketing@nove25.net | gioielli uomo (argento) | ALTA | Candidatura ambassador – Tommy (@tommibernaa, TikTok) | APPROVED | CONTATTATO |
+| B005 | Ngiolet Jeans | info@ngioletjeans.com | jeans e abbigliamento uomo | ALTA | Brand ambassador Ngiolet – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
+| B006 | Horda Brand | info@hordabrand.com | streetwear Made in Italy | ALTA | Collaborazione TikTok con Horda – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
+| B007 | Phobia Archive | hello@phobia-archive.com | streetwear | ALTA | Phobia Archive x @tommibernaa – proposta di collaborazione | APPROVED | EMAIL RIMBALZATA |
+| B008 | Dolly Noire | assistenza@dollynoire.com | streetwear | ALTA | Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire | APPROVED | CONTATTATO |
 | B009 | Malelions | marketing@malelions.com | streetwear uomo | MEDIA | Malelions x @tommibernaa – collaboration proposal | PENDING | DA CONTATTARE |
 | B010 | Fred Mello | pressoffice@5fiveseasons.it | abbigliamento uomo casual | MEDIA | Proposta di collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
 | B011 | Enterprise Japan | info@enterprise-japan.com | streetwear / sneakers | MEDIA | Enterprise Japan x @tommibernaa – idea per TikTok | PENDING | DA CONTATTARE |
@@ -194,7 +194,7 @@ TikTok: @tommibernaa
 - **Destinatario:** hello@phobia-archive.com (generale)
 - **Oggetto:** Phobia Archive x @tommibernaa – proposta di collaborazione
 - **Fonte contatto:** https://phobia-archive.com/pages/contact-us
-- **Note:** Email riconfermata con ricerca esatta.
+- **Note:** Email riconfermata con ricerca esatta. | rimbalzata 2026-09-28: 550 5.1.1 indirizzo inesistente (Gmail DSN 1a0e82f76c353c9d)
 
 ```text
 Ciao team Phobia Archive,
