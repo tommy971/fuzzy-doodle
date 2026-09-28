@@ -1,6 +1,6 @@
 # REVIEW – bozze email
 
-Generato il 2026-09-28 · 44 bozze · 8 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
+Generato il 2026-09-28 · 49 bozze · 8 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
 
 | ID | Brand | Email | Categoria | Priorità | Oggetto | Approvazione | Stato |
 |---|---|---|---|---|---|---|---|
@@ -12,6 +12,8 @@ Generato il 2026-09-28 · 44 bozze · 8 inviate. Per approvare: `python3 outreac
 | B006 | Horda Brand | info@hordabrand.com | streetwear Made in Italy | ALTA | Collaborazione TikTok con Horda – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
 | B007 | Phobia Archive | hello@phobia-archive.com | streetwear | ALTA | Phobia Archive x @tommibernaa – proposta di collaborazione | APPROVED | EMAIL RIMBALZATA |
 | B008 | Dolly Noire | assistenza@dollynoire.com | streetwear | ALTA | Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire | APPROVED | CONTATTATO |
+| B070 | Montirex | influencers@montirex.com | streetwear / athleisure | ALTA | Influencer application – Tommy (@tommibernaa, TikTok) | PENDING | DA CONTATTARE |
+| B071 | Happy Socks | collaborations@happysocks.com | calze / accessori | ALTA | Happy Socks x @tommibernaa – TikTok collab idea | PENDING | DA CONTATTARE |
 | B009 | Malelions | marketing@malelions.com | streetwear uomo | MEDIA | Malelions x @tommibernaa – collaboration proposal | PENDING | DA CONTATTARE |
 | B010 | Fred Mello | pressoffice@5fiveseasons.it | abbigliamento uomo casual | MEDIA | Proposta di collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
 | B011 | Enterprise Japan | info@enterprise-japan.com | streetwear / sneakers | MEDIA | Enterprise Japan x @tommibernaa – idea per TikTok | PENDING | DA CONTATTARE |
@@ -32,6 +34,8 @@ Generato il 2026-09-28 · 44 bozze · 8 inviate. Per approvare: `python3 outreac
 | B029 | Hawkers | contact@hawkersco.com | occhiali da sole | MEDIA | Hawkers x @tommibernaa – TikTok collaboration | PENDING | DA CONTATTARE |
 | B031 | Northskull | customercare@northskull.com | gioielli uomo | MEDIA | Northskull x @tommibernaa – men's jewellery on TikTok | PENDING | DA CONTATTARE |
 | B032 | Pompeii | contact@pompeiibrand.com | sneakers | MEDIA | Pompeii x @tommibernaa – TikTok collab idea | PENDING | DA CONTATTARE |
+| B072 | Gianni Lupo | info@giannilupo.it | abbigliamento uomo | MEDIA | Collaborazione TikTok – Tommy (@tommibernaa) x Gianni Lupo | PENDING | DA CONTATTARE |
+| B073 | The Couture Club | info@thecoutureclub.co.uk | streetwear | MEDIA | The Couture Club x @tommibernaa – collaboration idea | PENDING | DA CONTATTARE |
 | B015 | Imperial Fashion | customercare@imperialfashion.com | abbigliamento uomo/donna | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
 | B019 | Hinnominate | customercare@hinnominate.com | street couture | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) x Hinnominate | PENDING | DA CONTATTARE |
 | B020 | ButNot | info@butnot.it | streetwear | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
@@ -48,6 +52,7 @@ Generato il 2026-09-28 · 44 bozze · 8 inviate. Per approvare: `python3 outreac
 | B042 | Bikkembergs | customercare@bikkembergs.com | abbigliamento / sneakers uomo | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) x Bikkembergs | PENDING | DA CONTATTARE |
 | B043 | Flamingos' Life | contact@flamingoslife.com | sneakers vegan | BASSA | Creator collaboration – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
 | B044 | Don The Fuller | rdg@donthefuller.it | denim | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) x Don The Fuller | PENDING | DA CONTATTARE |
+| B074 | Muroexe | userexperience@muroexe.com | sneakers | BASSA | Muroexe x @tommibernaa – TikTok collaboration | PENDING | DA CONTATTARE |
 
 ---
 
@@ -194,7 +199,7 @@ TikTok: @tommibernaa
 - **Destinatario:** hello@phobia-archive.com (generale)
 - **Oggetto:** Phobia Archive x @tommibernaa – proposta di collaborazione
 - **Fonte contatto:** https://phobia-archive.com/pages/contact-us
-- **Note:** Email riconfermata con ricerca esatta. | rimbalzata 2026-09-28: 550 5.1.1 indirizzo inesistente (Gmail DSN 1a0e82f76c353c9d)
+- **Note:** Email riconfermata con ricerca esatta. | rimbalzata 2026-09-28: 550 5.1.1 indirizzo inesistente (Gmail DSN 1a0e82f76c353c9d) | Il sito indica ancora hello@ ma la casella non esiste: contattare via DM Instagram @phobia_archive o modulo https://phobia-archive.com/pages/contattaci
 
 ```text
 Ciao team Phobia Archive,
@@ -233,6 +238,52 @@ Fatemi sapere se può interessarvi!
 (Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
 
 Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B070 · Montirex (ALTA)
+
+- **Destinatario:** influencers@montirex.com (influencer (pagina dedicata))
+- **Oggetto:** Influencer application – Tommy (@tommibernaa, TikTok)
+- **Fonte contatto:** https://montirex.com/en-us/pages/influencer (proposte creator a influencers@, risponde il team influencer)
+- **Note:** info@montirex.com = generale.
+
+```text
+Hi Montirex team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+I saw on your influencer page that creator proposals go to this address, so I wanted to send you mine.
+
+I'd love to propose a collaboration: as a first step, you could send me a few pieces and I'd feature them naturally in my TikTok content, in outfits for nights out and in my everyday IRL videos. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B071 · Happy Socks (ALTA)
+
+- **Destinatario:** collaborations@happysocks.com (collaborazioni social (team social media))
+- **Oggetto:** Happy Socks x @tommibernaa – TikTok collab idea
+- **Fonte contatto:** support.happysocks.com: 'I want to collaborate with Happy Socks on Social Media' -> collaborations@
+- **Note:** marketing@happysocks.com = PR/marketing.
+
+```text
+Hi Happy Socks team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+Your help center says social media collaborations go through this address. Colourful socks are exactly the kind of detail that stands out in outfit videos.
+
+My idea would be simple to start: you send me a few pairs and I create TikTok videos where I actually wear them, styled in real outfits for nights out and everyday life. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+Cheers,
 Tommy
 TikTok: @tommibernaa
 ```
@@ -713,6 +764,56 @@ Tommy
 TikTok: @tommibernaa
 ```
 
+## B072 · Gianni Lupo (MEDIA)
+
+- **Destinatario:** info@giannilupo.it (generale)
+- **Oggetto:** Collaborazione TikTok – Tommy (@tommibernaa) x Gianni Lupo
+- **Fonte contatto:** https://www.giannilupo.com/it/contact-us-ss-oookfkf
+- **Note:** giannicares@giannilupo.com = customer care.
+
+```text
+Ciao team Gianni Lupo,
+
+sono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.
+
+Il vostro abbigliamento uomo, disegnato in Italia, è molto vicino allo stile che porto nei miei contenuti.
+
+Vi propongo una collaborazione: come prima possibilità, l'invio di alcuni capi in cambio di contenuti su TikTok, tra outfit quotidiani e serate. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.
+
+Se vi interessa, vi giro volentieri qualche esempio dei miei video.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+A presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B073 · The Couture Club (MEDIA)
+
+- **Destinatario:** info@thecoutureclub.co.uk (generale)
+- **Oggetto:** The Couture Club x @tommibernaa – collaboration idea
+- **Fonte contatto:** https://www.thecoutureclub.com/pages/contact-us
+- **Note:** customer.services@thecoutureclub.co.uk = customer care.
+
+```text
+Hi The Couture Club team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+Your streetwear fits the young audience that follows me really well.
+
+I'd love to propose a collaboration: as a first step, you could send me a few pieces and I'd feature them naturally in my TikTok content, in outfits for nights out and in my everyday IRL videos. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
 ## B015 · Imperial Fashion (BASSA)
 
 - **Destinatario:** customercare@imperialfashion.com (customer care)
@@ -1094,6 +1195,30 @@ Se vi interessa, vi giro volentieri qualche esempio dei miei video.
 (Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
 
 A presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B074 · Muroexe (BASSA)
+
+- **Destinatario:** userexperience@muroexe.com (customer care)
+- **Oggetto:** Muroexe x @tommibernaa – TikTok collaboration
+- **Fonte contatto:** https://muroexe.com/pages/contact
+
+```text
+Hi Muroexe team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+Your sneakers would fit nicely into the everyday outfits I show on TikTok.
+
+My idea would be simple to start: you send me a pair of sneakers and I create TikTok videos where I actually wear them, in real outfits from day to night. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Cheers,
 Tommy
 TikTok: @tommibernaa
 ```

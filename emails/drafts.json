@@ -570,5 +570,70 @@
     "approved_at": "",
     "sent_at": "",
     "followup": null
+  },
+  {
+    "id": "B070",
+    "brand": "Montirex",
+    "to": "influencers@montirex.com",
+    "language": "en",
+    "subject": "Influencer application – Tommy (@tommibernaa, TikTok)",
+    "body": "Hi Montirex team,\n\nI'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.\n\nI saw on your influencer page that creator proposals go to this address, so I wanted to send you mine.\n\nI'd love to propose a collaboration: as a first step, you could send me a few pieces and I'd feature them naturally in my TikTok content, in outfits for nights out and in my everyday IRL videos. I'm also open to discussing other ways of working together.\n\nHappy to share some examples of my videos if useful.\n\nBest,\nTommy\nTikTok: @tommibernaa",
+    "personalization_basis": "https://montirex.com/en-us/pages/influencer (proposte creator a influencers@, risponde il team influencer)",
+    "approval": "PENDING",
+    "approved_at": "",
+    "sent_at": "",
+    "followup": null
+  },
+  {
+    "id": "B071",
+    "brand": "Happy Socks",
+    "to": "collaborations@happysocks.com",
+    "language": "en",
+    "subject": "Happy Socks x @tommibernaa – TikTok collab idea",
+    "body": "Hi Happy Socks team,\n\nmy name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.\n\nYour help center says social media collaborations go through this address. Colourful socks are exactly the kind of detail that stands out in outfit videos.\n\nMy idea would be simple to start: you send me a few pairs and I create TikTok videos where I actually wear them, styled in real outfits for nights out and everyday life. If you have other collaboration formats in mind, I'm open to that too.\n\nLet me know if this sounds interesting!\n\nCheers,\nTommy\nTikTok: @tommibernaa",
+    "personalization_basis": "support.happysocks.com: 'I want to collaborate with Happy Socks on Social Media' -> collaborations@",
+    "approval": "PENDING",
+    "approved_at": "",
+    "sent_at": "",
+    "followup": null
+  },
+  {
+    "id": "B072",
+    "brand": "Gianni Lupo",
+    "to": "info@giannilupo.it",
+    "language": "it",
+    "subject": "Collaborazione TikTok – Tommy (@tommibernaa) x Gianni Lupo",
+    "body": "Ciao team Gianni Lupo,\n\nsono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.\n\nIl vostro abbigliamento uomo, disegnato in Italia, è molto vicino allo stile che porto nei miei contenuti.\n\nVi propongo una collaborazione: come prima possibilità, l'invio di alcuni capi in cambio di contenuti su TikTok, tra outfit quotidiani e serate. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.\n\nSe vi interessa, vi giro volentieri qualche esempio dei miei video.\n\n(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)\n\nA presto,\nTommy\nTikTok: @tommibernaa",
+    "personalization_basis": "https://www.giannilupo.com/it/contact-us-ss-oookfkf",
+    "approval": "PENDING",
+    "approved_at": "",
+    "sent_at": "",
+    "followup": null
+  },
+  {
+    "id": "B073",
+    "brand": "The Couture Club",
+    "to": "info@thecoutureclub.co.uk",
+    "language": "en",
+    "subject": "The Couture Club x @tommibernaa – collaboration idea",
+    "body": "Hi The Couture Club team,\n\nI'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.\n\nYour streetwear fits the young audience that follows me really well.\n\nI'd love to propose a collaboration: as a first step, you could send me a few pieces and I'd feature them naturally in my TikTok content, in outfits for nights out and in my everyday IRL videos. I'm also open to discussing other ways of working together.\n\nHappy to share some examples of my videos if useful.\n\n(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)\n\nBest,\nTommy\nTikTok: @tommibernaa",
+    "personalization_basis": "https://www.thecoutureclub.com/pages/contact-us",
+    "approval": "PENDING",
+    "approved_at": "",
+    "sent_at": "",
+    "followup": null
+  },
+  {
+    "id": "B074",
+    "brand": "Muroexe",
+    "to": "userexperience@muroexe.com",
+    "language": "en",
+    "subject": "Muroexe x @tommibernaa – TikTok collaboration",
+    "body": "Hi Muroexe team,\n\nmy name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.\n\nYour sneakers would fit nicely into the everyday outfits I show on TikTok.\n\nMy idea would be simple to start: you send me a pair of sneakers and I create TikTok videos where I actually wear them, in real outfits from day to night. If you have other collaboration formats in mind, I'm open to that too.\n\nLet me know if this sounds interesting!\n\n(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)\n\nCheers,\nTommy\nTikTok: @tommibernaa",
+    "personalization_basis": "https://muroexe.com/pages/contact",
+    "approval": "PENDING",
+    "approved_at": "",
+    "sent_at": "",
+    "followup": null
   }
 ]
