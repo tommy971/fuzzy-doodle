@@ -1,6 +1,6 @@
 # REVIEW – bozze email
 
-Generato il 2026-09-28 · 49 bozze · 32 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
+Generato il 2026-09-28 · 57 bozze · 32 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
 
 | ID | Brand | Email | Categoria | Priorità | Oggetto | Approvazione | Stato |
 |---|---|---|---|---|---|---|---|
@@ -36,6 +36,11 @@ Generato il 2026-09-28 · 49 bozze · 32 inviate. Per approvare: `python3 outrea
 | B032 | Pompeii | contact@pompeiibrand.com | sneakers | MEDIA | Pompeii x @tommibernaa – TikTok collab idea | APPROVED | CONTATTATO |
 | B072 | Gianni Lupo | info@giannilupo.it | abbigliamento uomo | MEDIA | Collaborazione TikTok – Tommy (@tommibernaa) x Gianni Lupo | APPROVED | CONTATTATO |
 | B073 | The Couture Club | info@thecoutureclub.co.uk | streetwear | MEDIA | The Couture Club x @tommibernaa – collaboration idea | APPROVED | CONTATTATO |
+| B081 | GCDS | press@gcds.it | streetwear (felpe, t-shirt) | MEDIA | GCDS x @tommibernaa – proposta di collaborazione | PENDING | DA CONTATTARE |
+| B082 | Daily Paper | info@dailypaperclothing.com | streetwear | MEDIA | Daily Paper x @tommibernaa – creator collaboration | PENDING | DA CONTATTARE |
+| B083 | Represent | press@representclo.com | streetwear (felpe, t-shirt) | MEDIA | Represent x @tommibernaa – creator collaboration | PENDING | DA CONTATTARE |
+| B084 | Barrow | info@barrowofficial.com | streetwear (felpe, t-shirt) | MEDIA | Barrow x @tommibernaa – collaborazione TikTok | PENDING | DA CONTATTARE |
+| B085 | Champion Europe | marketing.chpeu@orbico.com | felpe / sportswear | MEDIA | Collaborazione TikTok – Tommy (@tommibernaa) x Champion | PENDING | DA CONTATTARE |
 | B015 | Imperial Fashion | customercare@imperialfashion.com | abbigliamento uomo/donna | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
 | B019 | Hinnominate | customercare@hinnominate.com | street couture | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) x Hinnominate | PENDING | DA CONTATTARE |
 | B020 | ButNot | info@butnot.it | streetwear | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
@@ -53,6 +58,9 @@ Generato il 2026-09-28 · 49 bozze · 32 inviate. Per approvare: `python3 outrea
 | B043 | Flamingos' Life | contact@flamingoslife.com | sneakers vegan | BASSA | Creator collaboration – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
 | B044 | Don The Fuller | rdg@donthefuller.it | denim | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) x Don The Fuller | PENDING | DA CONTATTARE |
 | B074 | Muroexe | userexperience@muroexe.com | sneakers | BASSA | Muroexe x @tommibernaa – TikTok collaboration | PENDING | DA CONTATTARE |
+| B086 | Gym King | customerservice@gymking.com | tute / athleisure | BASSA | Gym King x @tommibernaa – TikTok collaboration | PENDING | DA CONTATTARE |
+| B087 | Trapstar | support@trapstarlondon.com | streetwear | BASSA | Trapstar x @tommibernaa – TikTok collaboration | PENDING | DA CONTATTARE |
+| B088 | Carhartt WIP | info@carhartt-wip.com | streetwear / workwear | BASSA | Carhartt WIP x @tommibernaa – TikTok collaboration | PENDING | DA CONTATTARE |
 
 ---
 
@@ -814,6 +822,124 @@ Tommy
 TikTok: @tommibernaa
 ```
 
+## B081 · GCDS (MEDIA)
+
+- **Destinatario:** press@gcds.it (press)
+- **Oggetto:** GCDS x @tommibernaa – proposta di collaborazione
+- **Fonte contatto:** https://gcds.com/en-us/pages/contact-us
+- **Note:** Brand grande e selettivo.
+
+```text
+Ciao team GCDS,
+
+sono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower. Faccio contenuti di intrattenimento, lifestyle, nightlife e IRL, seguiti soprattutto da un pubblico giovane in Italia.
+
+Le vostre felpe e t-shirt sono tra i capi streetwear italiani più riconoscibili per il pubblico giovane che mi segue.
+
+Vi scrivo per proporvi una collaborazione: per iniziare potreste inviarmi qualche felpa o t-shirt da inserire in modo naturale nei miei video, negli outfit delle serate e nei contenuti IRL. Sono comunque aperto anche ad altre modalità, se preferite.
+
+Se vi va, vi mando qualche link ai miei contenuti per farvi un'idea.
+
+Grazie e a presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B082 · Daily Paper (MEDIA)
+
+- **Destinatario:** info@dailypaperclothing.com (generale)
+- **Oggetto:** Daily Paper x @tommibernaa – creator collaboration
+- **Fonte contatto:** https://dailypaperclothing.com/pages/contact-us
+
+```text
+Hi Daily Paper team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+Your collaborations with brands like Filling Pieces and New Era show how much you value creative partnerships, and your streetwear fits my style really well.
+
+My idea would be simple to start: you send me a few pieces (a hoodie or a couple of tees) and I create TikTok videos where I actually wear them, in outfits for nights out and everyday life. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B083 · Represent (MEDIA)
+
+- **Destinatario:** press@representclo.com (press & partnerships)
+- **Oggetto:** Represent x @tommibernaa – creator collaboration
+- **Fonte contatto:** https://representclo.com/pages/contact-us + https://eu.representclo.com/pages/press-partnerships
+
+```text
+Hi Represent team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+I saw your Press & Partnerships page, and your hoodies and tees would fit perfectly into my everyday content.
+
+I'd love to propose a collaboration: as a first step, you could send me a hoodie or a couple of tees and I'd feature them naturally in my TikTok content, in outfits for nights out and in my everyday IRL videos. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B084 · Barrow (MEDIA)
+
+- **Destinatario:** info@barrowofficial.com (generale)
+- **Oggetto:** Barrow x @tommibernaa – collaborazione TikTok
+- **Fonte contatto:** https://www.barrowofficial.com/en/pages/contatti
+
+```text
+Ciao a tutto il team Barrow,
+
+mi chiamo Tommy e su TikTok sono @tommibernaa: circa 26K follower, contenuti di intrattenimento e lifestyle tra serate, vita sociale e momenti IRL, con un pubblico giovane e soprattutto italiano.
+
+Il vostro spirito da gioventù ribelle e digitale è lo stesso del pubblico che mi segue, e le vostre felpe e t-shirt sono perfette per i look dei miei video.
+
+L'idea sarebbe partire in modo semplice: mi inviate qualche felpa o t-shirt e io creo contenuti TikTok autentici con i vostri prodotti indossati davvero, tra serate, uscite con gli amici e vita di tutti i giorni. Se avete in mente altre forme di collaborazione, ne parliamo volentieri.
+
+Fatemi sapere se può interessarvi!
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B085 · Champion Europe (MEDIA)
+
+- **Destinatario:** marketing.chpeu@orbico.com (press / marketing Europa)
+- **Oggetto:** Collaborazione TikTok – Tommy (@tommibernaa) x Champion
+- **Fonte contatto:** https://www.championstore.com/en_emea/contact-us (voce 'Press enquiries')
+- **Note:** Dominio orbico.com = società che gestisce il brand in Europa (da verificare). Alternativa citata: Marketing.CHPEU@hanes.com.
+
+```text
+Ciao team Champion Europe,
+
+sono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.
+
+Le felpe e le t-shirt Champion sono un classico dello streetwear che il mio pubblico conosce bene.
+
+Vi propongo una collaborazione: come prima possibilità, l'invio di qualche felpa o t-shirt in cambio di contenuti su TikTok, in outfit reali tra giorno e sera. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.
+
+Se vi interessa, vi giro volentieri qualche esempio dei miei video.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+A presto,
+Tommy
+TikTok: @tommibernaa
+```
+
 ## B015 · Imperial Fashion (BASSA)
 
 - **Destinatario:** customercare@imperialfashion.com (customer care)
@@ -1213,6 +1339,79 @@ my name is Tommy and I create TikTok content as @tommibernaa (around 26K followe
 Your sneakers would fit nicely into the everyday outfits I show on TikTok.
 
 My idea would be simple to start: you send me a pair of sneakers and I create TikTok videos where I actually wear them, in real outfits from day to night. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B086 · Gym King (BASSA)
+
+- **Destinatario:** customerservice@gymking.com (customer care)
+- **Oggetto:** Gym King x @tommibernaa – TikTok collaboration
+- **Fonte contatto:** https://thegymking.com/en-us/pages/contact-us
+
+```text
+Hi Gym King team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+Your tracksuits and lifestyle pieces fit the young audience that follows me.
+
+My idea would be simple to start: you send me a few pieces and I create TikTok videos where I actually wear them, in outfits for everyday life and nights out. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B087 · Trapstar (BASSA)
+
+- **Destinatario:** support@trapstarlondon.com (customer care)
+- **Oggetto:** Trapstar x @tommibernaa – TikTok collaboration
+- **Fonte contatto:** Risultato di ricerca (contatto supporto clienti)
+- **Note:** Hanno un responsabile influencer ma senza email pubblica: NON usato un indirizzo costruito.
+
+```text
+Hi Trapstar team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+Your streetwear speaks to the same young audience that follows me.
+
+I'd love to propose a collaboration: as a first step, you could send me a few pieces and I'd feature them naturally in my TikTok content, in outfits for nights out and in my everyday IRL videos. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B088 · Carhartt WIP (BASSA)
+
+- **Destinatario:** info@carhartt-wip.com (generale)
+- **Oggetto:** Carhartt WIP x @tommibernaa – TikTok collaboration
+- **Fonte contatto:** https://services.carhartt-wip.com/en-de/contact
+
+```text
+Hi Carhartt WIP team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+Your pieces are a staple of the everyday streetwear style I show in my videos.
+
+My idea would be simple to start: you send me a few pieces and I create TikTok videos where I actually wear them, styled in real outfits for nights out and everyday life. If you have other collaboration formats in mind, I'm open to that too.
 
 Let me know if this sounds interesting!
 
