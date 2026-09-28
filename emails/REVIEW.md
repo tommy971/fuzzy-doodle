@@ -1,0 +1,1099 @@
+# REVIEW – bozze email
+
+Generato il 2026-09-28 · 44 bozze · 0 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
+
+| ID | Brand | Email | Categoria | Priorità | Oggetto | Approvazione | Stato |
+|---|---|---|---|---|---|---|---|
+| B001 | Quotrell | marketing@quotrell.com | streetwear / casual | ALTA | Creator collaboration – Tommy (@tommibernaa) x Quotrell | PENDING | DA CONTATTARE |
+| B002 | Colourful Rebel | pr@colourfulrebel.com | streetwear / casual | ALTA | Colourful Rebel x @tommibernaa – TikTok collab idea | PENDING | DA CONTATTARE |
+| B003 | Kapten & Son | press@kapten-son.com | accessori (zaini, orologi, occhiali) | ALTA | Influencer enquiry – Tommy (@tommibernaa, TikTok) | PENDING | DA CONTATTARE |
+| B004 | Nove25 | marketing@nove25.net | gioielli uomo (argento) | ALTA | Candidatura ambassador – Tommy (@tommibernaa, TikTok) | PENDING | DA CONTATTARE |
+| B005 | Ngiolet Jeans | info@ngioletjeans.com | jeans e abbigliamento uomo | ALTA | Brand ambassador Ngiolet – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B006 | Horda Brand | info@hordabrand.com | streetwear Made in Italy | ALTA | Collaborazione TikTok con Horda – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B007 | Phobia Archive | hello@phobia-archive.com | streetwear | ALTA | Phobia Archive x @tommibernaa – proposta di collaborazione | PENDING | DA CONTATTARE |
+| B008 | Dolly Noire | assistenza@dollynoire.com | streetwear | ALTA | Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire | PENDING | DA CONTATTARE |
+| B009 | Malelions | marketing@malelions.com | streetwear uomo | MEDIA | Malelions x @tommibernaa – collaboration proposal | PENDING | DA CONTATTARE |
+| B010 | Fred Mello | pressoffice@5fiveseasons.it | abbigliamento uomo casual | MEDIA | Proposta di collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B011 | Enterprise Japan | info@enterprise-japan.com | streetwear / sneakers | MEDIA | Enterprise Japan x @tommibernaa – idea per TikTok | PENDING | DA CONTATTARE |
+| B012 | Takeshy Kurosawa | info@takeshykurosawa.com | abbigliamento uomo (total look) | MEDIA | Collaborazione TikTok con Takeshy Kurosawa – Tommy | PENDING | DA CONTATTARE |
+| B013 | Sseinse | info@sseinse.com | abbigliamento uomo | MEDIA | Proposta di collaborazione – Tommy (@tommibernaa) x Sseinse | PENDING | DA CONTATTARE |
+| B014 | Antony Morato | press@antonymorato.it | abbigliamento uomo | MEDIA | Collaborazione creator TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B016 | Iuter | info@iuter.com | streetwear | MEDIA | IUTER x @tommibernaa – proposta di collaborazione | PENDING | DA CONTATTARE |
+| B017 | Octopus | store@octopusbrand.com | streetwear | MEDIA | Octopus x @tommibernaa – collaborazione TikTok | PENDING | DA CONTATTARE |
+| B018 | Vision of Super | customerservice@visionofsuper.com | streetwear | MEDIA | Vision of Super x @tommibernaa – idea per TikTok | PENDING | DA CONTATTARE |
+| B021 | Ghoud | mkt@ghoud.com | sneakers | MEDIA | Ghoud x @tommibernaa – collaborazione TikTok | PENDING | DA CONTATTARE |
+| B022 | P448 | contact@p448.com | sneakers | MEDIA | P448 x @tommibernaa – proposta di collaborazione | PENDING | DA CONTATTARE |
+| B023 | Spektre | press@infospektre.com | occhiali da sole | MEDIA | Spektre x @tommibernaa – occhiali in video | PENDING | DA CONTATTARE |
+| B024 | 2Jewels | info@2jewels.it | gioielli uomo | MEDIA | Collaborazione TikTok con 2Jewels – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B025 | Luca Barra | info@lucabarra.it | gioielli uomo/donna | MEDIA | Proposta di collaborazione – Tommy (@tommibernaa) x Luca Barra | PENDING | DA CONTATTARE |
+| B026 | Gerba | info@gerba.it | bracciali / gioielli uomo | MEDIA | Gerba x @tommibernaa – collaborazione TikTok | PENDING | DA CONTATTARE |
+| B027 | Olaf Hussein | marketing@olafhussein.com | streetwear premium | MEDIA | Collaboration proposal – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B028 | Sixth June | shop@sixthjune.com | streetwear | MEDIA | Sixth June x @tommibernaa – creator collaboration | PENDING | DA CONTATTARE |
+| B029 | Hawkers | contact@hawkersco.com | occhiali da sole | MEDIA | Hawkers x @tommibernaa – TikTok collaboration | PENDING | DA CONTATTARE |
+| B031 | Northskull | customercare@northskull.com | gioielli uomo | MEDIA | Northskull x @tommibernaa – men's jewellery on TikTok | PENDING | DA CONTATTARE |
+| B032 | Pompeii | contact@pompeiibrand.com | sneakers | MEDIA | Pompeii x @tommibernaa – TikTok collab idea | PENDING | DA CONTATTARE |
+| B015 | Imperial Fashion | customercare@imperialfashion.com | abbigliamento uomo/donna | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B019 | Hinnominate | customercare@hinnominate.com | street couture | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) x Hinnominate | PENDING | DA CONTATTARE |
+| B020 | ButNot | info@butnot.it | streetwear | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B030 | Cluse | partnerships@cluse.com | orologi / gioielli | BASSA | Creator collaboration – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B033 | Pegador | support@pegador.com | streetwear | BASSA | TikTok creator collaboration – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B034 | Arte Antwerp | support@arte-antwerp.com | streetwear | BASSA | Arte x @tommibernaa – collaboration idea | PENDING | DA CONTATTARE |
+| B035 | Black Bananas | support@blackbananas.com | streetwear | BASSA | Black Bananas x @tommibernaa – TikTok collaboration | PENDING | DA CONTATTARE |
+| B036 | Purewhite | webshop@purewhite.nl | streetwear | BASSA | Purewhite x @tommibernaa – collaboration proposal | PENDING | DA CONTATTARE |
+| B037 | Komono | support@komono.com | orologi / occhiali | BASSA | Komono x @tommibernaa – TikTok collaboration | PENDING | DA CONTATTARE |
+| B038 | Womsh | support@womsh.com | sneakers sostenibili | BASSA | Word of mouth… su TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B039 | Serge DeNimes | orders@sergedenimes.com | gioielli uomo | BASSA | Serge DeNimes x @tommibernaa – men's jewellery on TikTok | PENDING | DA CONTATTARE |
+| B040 | Sun68 | shop@sun68.com | casual uomo | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) x Sun68 | PENDING | DA CONTATTARE |
+| B041 | RefrigiWear 1954 | ecommerce@refrigiwear1954.com | capispalla | BASSA | Contenuti autunno/inverno con RefrigiWear – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B042 | Bikkembergs | customercare@bikkembergs.com | abbigliamento / sneakers uomo | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) x Bikkembergs | PENDING | DA CONTATTARE |
+| B043 | Flamingos' Life | contact@flamingoslife.com | sneakers vegan | BASSA | Creator collaboration – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
+| B044 | Don The Fuller | rdg@donthefuller.it | denim | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) x Don The Fuller | PENDING | DA CONTATTARE |
+
+---
+
+## B001 · Quotrell (ALTA)
+
+- **Destinatario:** marketing@quotrell.com (marketing (indicata per collaborazioni con creator))
+- **Oggetto:** Creator collaboration – Tommy (@tommibernaa) x Quotrell
+- **Fonte contatto:** https://quotrell.com/pages/faq (FAQ: aperti a collaborazioni con influencer e content creator, proposte a marketing@)
+- **Note:** Email riconfermata con ricerca esatta.
+
+```text
+Hi Quotrell team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+I saw in your FAQ that you're open to collaborations with content creators, so I wanted to reach out directly.
+
+I'd love to propose a collaboration: as a first step, you could send me a few pieces and I'd feature them naturally in my TikTok content, in outfits for nights out and in my everyday IRL videos. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B002 · Colourful Rebel (ALTA)
+
+- **Destinatario:** pr@colourfulrebel.com (PR & collaborazioni)
+- **Oggetto:** Colourful Rebel x @tommibernaa – TikTok collab idea
+- **Fonte contatto:** https://colourfulrebel.com/en-us/pages/contact (voce 'PR & Collaborations')
+- **Note:** Email riconfermata con ricerca esatta. Sulla pagina compare anche un indirizzo nominativo: NON usato (preferito contatto PR).
+
+```text
+Hi Colourful Rebel team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+Your colourful, positive-vibes style fits really well with the light and fun content I make.
+
+My idea would be simple to start: you send me a few pieces and I create TikTok videos where I actually wear them, styled in real outfits for nights out and everyday life. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B003 · Kapten & Son (ALTA)
+
+- **Destinatario:** press@kapten-son.com (PR / influencer)
+- **Oggetto:** Influencer enquiry – Tommy (@tommibernaa, TikTok)
+- **Fonte contatto:** https://kapten-son.com/en/experience-hub/inside-kapten/press ('for influencer or PR inquiries')
+- **Note:** Email riconfermata con ricerca esatta. Brand grande (IG ~1M): selettivi, ma canale influencer esplicito.
+
+```text
+Hi Kapten & Son team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+I saw on your press page that influencer enquiries go through this address. Your backpacks and accessories fit naturally into the everyday and going-out content I post.
+
+I'd love to propose a collaboration: as a first step, you could send me a backpack or a couple of accessories and I'd feature them naturally in my TikTok content, using them in real situations like nights out and days around the city. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B004 · Nove25 (ALTA)
+
+- **Destinatario:** marketing@nove25.net (marketing / programma ambassador)
+- **Oggetto:** Candidatura ambassador – Tommy (@tommibernaa, TikTok)
+- **Fonte contatto:** https://www.nove25.net/en/c/be-an-ambassador ('Be a Nove25 Ambassador' -> scrivere a marketing@ con il progetto)
+- **Note:** Email riconfermata con ricerca esatta. Brand strutturato (IG ~196K).
+
+```text
+Ciao team Nove25,
+
+sono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower. Faccio contenuti di intrattenimento, lifestyle, nightlife e IRL, seguiti soprattutto da un pubblico giovane in Italia.
+
+Ho visto la vostra pagina "Be a Nove25 Ambassador" e ho deciso di scrivervi: i vostri gioielli in argento sono esattamente il tipo di dettaglio che completa i look delle serate che racconto nei miei video.
+
+Vi scrivo per proporvi una collaborazione: per iniziare potreste inviarmi alcuni pezzi (un anello, un bracciale o una catena) da inserire in modo naturale nei miei video, per esempio quando mi preparo prima di uscire. Sono comunque aperto anche ad altre modalità, se preferite.
+
+Se vi va, vi mando qualche link ai miei contenuti per farvi un'idea.
+
+Grazie e a presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B005 · Ngiolet Jeans (ALTA)
+
+- **Destinatario:** info@ngioletjeans.com (generale (usata anche per ambassador))
+- **Oggetto:** Brand ambassador Ngiolet – Tommy (@tommibernaa)
+- **Fonte contatto:** https://ngioletjeans.com/en/pages/diventa-un-nostro-brand-ambassador (programma aperto a influencer e content creator)
+- **Note:** Email riconfermata con ricerca esatta. Per il programma ambassador indicano anche WhatsApp +39 378 417 5764.
+
+```text
+Ciao a tutto il team Ngiolet Jeans,
+
+mi chiamo Tommy e su TikTok sono @tommibernaa: circa 26K follower, contenuti di intrattenimento e lifestyle tra serate, vita sociale e momenti IRL, con un pubblico giovane e soprattutto italiano.
+
+Ho visto sul vostro sito che cercate brand ambassador anche tra i content creator, e i vostri jeans e coordinati uomo sono molto vicini allo stile che porto nei miei contenuti.
+
+L'idea sarebbe partire in modo semplice: mi inviate un paio di capi (jeans o un coordinato) e io creo contenuti TikTok autentici con i vostri prodotti indossati davvero, per esempio in un outfit per una serata o in un video "get ready with me". Se avete in mente altre forme di collaborazione, ne parliamo volentieri.
+
+Fatemi sapere se può interessarvi!
+
+Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B006 · Horda Brand (ALTA)
+
+- **Destinatario:** info@hordabrand.com (generale)
+- **Oggetto:** Collaborazione TikTok con Horda – Tommy (@tommibernaa)
+- **Fonte contatto:** https://hordabrand.com/en/pages/contatti
+- **Note:** Email riconfermata con ricerca esatta.
+
+```text
+Ciao team Horda Brand,
+
+sono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.
+
+Ho visto che siete un brand streetwear 100% Made in Italy e che avete già collaborato con artisti come Kid Lost: credo che il vostro stile possa funzionare molto bene con il mio pubblico.
+
+Vi propongo una collaborazione: come prima possibilità, l'invio di qualche felpa o t-shirt in cambio di contenuti su TikTok, tra outfit per le serate e contenuti di tutti i giorni. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.
+
+Se vi interessa, vi giro volentieri qualche esempio dei miei video.
+
+A presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B007 · Phobia Archive (ALTA)
+
+- **Destinatario:** hello@phobia-archive.com (generale)
+- **Oggetto:** Phobia Archive x @tommibernaa – proposta di collaborazione
+- **Fonte contatto:** https://phobia-archive.com/pages/contact-us
+- **Note:** Email riconfermata con ricerca esatta.
+
+```text
+Ciao team Phobia Archive,
+
+sono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower. Faccio contenuti di intrattenimento, lifestyle, nightlife e IRL, seguiti soprattutto da un pubblico giovane in Italia.
+
+Il vostro streetwear parla proprio al tipo di pubblico che mi segue, e credo che i vostri capi starebbero benissimo nei miei video.
+
+Vi scrivo per proporvi una collaborazione: per iniziare potreste inviarmi alcuni capi da inserire in modo naturale nei miei video, negli outfit delle serate e nei contenuti IRL. Sono comunque aperto anche ad altre modalità, se preferite.
+
+Se vi va, vi mando qualche link ai miei contenuti per farvi un'idea.
+
+Grazie e a presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B008 · Dolly Noire (ALTA)
+
+- **Destinatario:** assistenza@dollynoire.com (customer care)
+- **Oggetto:** Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire
+- **Fonte contatto:** https://www.dollynoire.com/pages/contattaci
+- **Note:** Unica email trovata = customer care: nella mail chiedo di inoltrare al marketing. Valutare anche DM Instagram o pagina 'Diventa un Braver'.
+
+```text
+Ciao a tutto il team Dolly Noire,
+
+mi chiamo Tommy e su TikTok sono @tommibernaa: circa 26K follower, contenuti di intrattenimento e lifestyle tra serate, vita sociale e momenti IRL, con un pubblico giovane e soprattutto italiano.
+
+Dolly Noire è uno dei brand streetwear milanesi più vicini ai ragazzi della mia età, e ho visto che coinvolgete spesso artisti e talent nei vostri progetti.
+
+L'idea sarebbe partire in modo semplice: mi inviate qualche capo della collezione e io creo contenuti TikTok autentici con i vostri prodotti indossati davvero, tra serate, uscite con gli amici e momenti di vita quotidiana. Se avete in mente altre forme di collaborazione, ne parliamo volentieri.
+
+Fatemi sapere se può interessarvi!
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B009 · Malelions (MEDIA)
+
+- **Destinatario:** marketing@malelions.com (marketing)
+- **Oggetto:** Malelions x @tommibernaa – collaboration proposal
+- **Fonte contatto:** https://malelions.com/en/service/contact
+- **Note:** sales@malelions.com e' per rivenditori: non usato.
+
+```text
+Hi Malelions team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+I know how much you invest in your Ambassadors Family, and I think your streetwear would really suit my audience in Italy.
+
+My idea would be simple to start: you send me a few pieces and I create TikTok videos where I actually wear them, in outfits for nights out and everyday content. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B010 · Fred Mello (MEDIA)
+
+- **Destinatario:** pressoffice@5fiveseasons.it (ufficio marketing & comunicazione)
+- **Oggetto:** Proposta di collaborazione TikTok – Tommy (@tommibernaa)
+- **Fonte contatto:** https://www.fred-mello.com/en/pages/contatti (Marketing & Communication Office)
+- **Note:** Dominio 5fiveseasons.it = societa' che gestisce il brand (da confermare prima dell'invio).
+
+```text
+Ciao team Fred Mello,
+
+sono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.
+
+Il vostro casual uomo è molto vicino allo stile che porto nei video di tutti i giorni, e mi farebbe piacere portarlo davanti al mio pubblico.
+
+Vi propongo una collaborazione: come prima possibilità, l'invio di alcuni capi in cambio di contenuti su TikTok, tra outfit quotidiani e serate. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.
+
+Se vi interessa, vi giro volentieri qualche esempio dei miei video.
+
+A presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B011 · Enterprise Japan (MEDIA)
+
+- **Destinatario:** info@enterprise-japan.com (generale)
+- **Oggetto:** Enterprise Japan x @tommibernaa – idea per TikTok
+- **Fonte contatto:** https://www.enterprise-japan.com/pages/contatti
+
+```text
+Ciao team Enterprise Japan,
+
+sono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower. Faccio contenuti di intrattenimento, lifestyle, nightlife e IRL, seguiti soprattutto da un pubblico giovane in Italia.
+
+Il vostro mix di streetwear e sneakers parla allo stesso pubblico giovane che mi segue su TikTok.
+
+Vi scrivo per proporvi una collaborazione: per iniziare potreste inviarmi qualche capo o un paio di sneakers da inserire in modo naturale nei miei video, dentro outfit per le serate e contenuti IRL. Sono comunque aperto anche ad altre modalità, se preferite.
+
+Se vi va, vi mando qualche link ai miei contenuti per farvi un'idea.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Grazie e a presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B012 · Takeshy Kurosawa (MEDIA)
+
+- **Destinatario:** info@takeshykurosawa.com (generale)
+- **Oggetto:** Collaborazione TikTok con Takeshy Kurosawa – Tommy
+- **Fonte contatto:** https://www.takeshykurosawa.com/contatti/
+- **Note:** Sulla pagina contatti risulta anche un indirizzo marketing su Gmail (marketingtakeshykurosawashop@gmail.com): alternativa se info@ non risponde.
+
+```text
+Ciao a tutto il team Takeshy Kurosawa,
+
+mi chiamo Tommy e su TikTok sono @tommibernaa: circa 26K follower, contenuti di intrattenimento e lifestyle tra serate, vita sociale e momenti IRL, con un pubblico giovane e soprattutto italiano.
+
+Il vostro total look uomo è molto in linea con lo stile che porto nei miei contenuti.
+
+L'idea sarebbe partire in modo semplice: mi inviate alcuni capi per creare un look completo e io creo contenuti TikTok autentici con i vostri prodotti indossati davvero, per esempio in un video outfit prima di una serata. Se avete in mente altre forme di collaborazione, ne parliamo volentieri.
+
+Fatemi sapere se può interessarvi!
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B013 · Sseinse (MEDIA)
+
+- **Destinatario:** info@sseinse.com (generale)
+- **Oggetto:** Proposta di collaborazione – Tommy (@tommibernaa) x Sseinse
+- **Fonte contatto:** https://www.sseinse.com/contatti/
+
+```text
+Ciao team Sseinse,
+
+sono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.
+
+Il vostro abbigliamento uomo ha uno stile che si adatta bene ai miei contenuti, tra vita di tutti i giorni e serate.
+
+Vi propongo una collaborazione: come prima possibilità, l'invio di alcuni capi in cambio di contenuti su TikTok, inserendoli in outfit reali che il mio pubblico vede ogni giorno. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.
+
+Se vi interessa, vi giro volentieri qualche esempio dei miei video.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+A presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B014 · Antony Morato (MEDIA)
+
+- **Destinatario:** press@antonymorato.it (ufficio stampa)
+- **Oggetto:** Collaborazione creator TikTok – Tommy (@tommibernaa)
+- **Fonte contatto:** https://windpress.info/it/network/company/7433/antony-morato-essedi-spa (scheda ufficio stampa)
+- **Note:** Fonte = directory stampa, non il sito ufficiale.
+
+```text
+Ciao team Antony Morato,
+
+sono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower. Faccio contenuti di intrattenimento, lifestyle, nightlife e IRL, seguiti soprattutto da un pubblico giovane in Italia.
+
+Il vostro menswear è molto vicino allo stile del pubblico giovane che mi segue.
+
+Vi scrivo per proporvi una collaborazione: per iniziare potreste inviarmi alcuni capi da inserire in modo naturale nei miei video, tra outfit per uscire e contenuti lifestyle. Sono comunque aperto anche ad altre modalità, se preferite.
+
+Se vi va, vi mando qualche link ai miei contenuti per farvi un'idea.
+
+Grazie e a presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B016 · Iuter (MEDIA)
+
+- **Destinatario:** info@iuter.com (generale / store)
+- **Oggetto:** IUTER x @tommibernaa – proposta di collaborazione
+- **Fonte contatto:** https://www.iuter.com/en/p/contacts
+- **Note:** store@iuter.com = customer care.
+
+```text
+Ciao team Iuter,
+
+sono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.
+
+Iuter è un nome storico dello streetwear milanese e il vostro legame con la cultura urbana è molto vicino ai contenuti che faccio.
+
+Vi propongo una collaborazione: come prima possibilità, l'invio di qualche capo in cambio di contenuti su TikTok, tra serate, eventi e vita in città. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.
+
+Se vi interessa, vi giro volentieri qualche esempio dei miei video.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+A presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B017 · Octopus (MEDIA)
+
+- **Destinatario:** store@octopusbrand.com (store / customer care)
+- **Oggetto:** Octopus x @tommibernaa – collaborazione TikTok
+- **Fonte contatto:** https://www.octopusbrand.com/en/p/contacts
+
+```text
+Ciao team Octopus,
+
+sono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower. Faccio contenuti di intrattenimento, lifestyle, nightlife e IRL, seguiti soprattutto da un pubblico giovane in Italia.
+
+Il vostro streetwear, nato dall'incontro tra Iuter e VNGRD, ha uno stile che si abbina benissimo ai miei outfit.
+
+Vi scrivo per proporvi una collaborazione: per iniziare potreste inviarmi alcuni capi da inserire in modo naturale nei miei video, negli outfit delle serate e di tutti i giorni. Sono comunque aperto anche ad altre modalità, se preferite.
+
+Se vi va, vi mando qualche link ai miei contenuti per farvi un'idea.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Grazie e a presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B018 · Vision of Super (MEDIA)
+
+- **Destinatario:** customerservice@visionofsuper.com (customer care)
+- **Oggetto:** Vision of Super x @tommibernaa – idea per TikTok
+- **Fonte contatto:** https://visionofsuper.com/pages/contact-us
+
+```text
+Ciao a tutto il team Vision of Super,
+
+mi chiamo Tommy e su TikTok sono @tommibernaa: circa 26K follower, contenuti di intrattenimento e lifestyle tra serate, vita sociale e momenti IRL, con un pubblico giovane e soprattutto italiano.
+
+I vostri capi colorati e riconoscibili sono perfetti per contenuti TikTok che si fanno notare.
+
+L'idea sarebbe partire in modo semplice: mi inviate qualche capo e io creo contenuti TikTok autentici con i vostri prodotti indossati davvero, per esempio in un video outfit prima di una serata. Se avete in mente altre forme di collaborazione, ne parliamo volentieri.
+
+Fatemi sapere se può interessarvi!
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B021 · Ghoud (MEDIA)
+
+- **Destinatario:** mkt@ghoud.com (marketing & press)
+- **Oggetto:** Ghoud x @tommibernaa – collaborazione TikTok
+- **Fonte contatto:** https://ghoud.com/pages/contact-us
+- **Note:** info@ghoud.com = contatto B2C generale.
+
+```text
+Ciao a tutto il team Ghoud,
+
+mi chiamo Tommy e su TikTok sono @tommibernaa: circa 26K follower, contenuti di intrattenimento e lifestyle tra serate, vita sociale e momenti IRL, con un pubblico giovane e soprattutto italiano.
+
+Le vostre sneakers sono il tipo di dettaglio che fa la differenza in un outfit, e nei miei video gli outfit si vedono tanto.
+
+L'idea sarebbe partire in modo semplice: mi inviate un paio di sneakers e io creo contenuti TikTok autentici con i vostri prodotti indossati davvero, in abbinamento a look per uscire e a contenuti di tutti i giorni. Se avete in mente altre forme di collaborazione, ne parliamo volentieri.
+
+Fatemi sapere se può interessarvi!
+
+Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B022 · P448 (MEDIA)
+
+- **Destinatario:** contact@p448.com (generale)
+- **Oggetto:** P448 x @tommibernaa – proposta di collaborazione
+- **Fonte contatto:** https://us.p448.com/pages/contact
+
+```text
+Ciao team P448,
+
+sono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.
+
+Le vostre sneakers Made in Italy hanno uno stile che funziona sia nei look di tutti i giorni sia in quelli delle serate.
+
+Vi propongo una collaborazione: come prima possibilità, l'invio di un paio di sneakers in cambio di contenuti su TikTok, in outfit reali tra giorno e sera. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.
+
+Se vi interessa, vi giro volentieri qualche esempio dei miei video.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+A presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B023 · Spektre (MEDIA)
+
+- **Destinatario:** press@infospektre.com (press)
+- **Oggetto:** Spektre x @tommibernaa – occhiali in video
+- **Fonte contatto:** https://pressday.net/en/press-contact/spektre-sunglasses + https://www.spektresunglasses.com/contact/
+- **Note:** Sulla pagina compare anche un indirizzo nominativo: NON usato.
+
+```text
+Ciao team Spektre,
+
+sono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower. Faccio contenuti di intrattenimento, lifestyle, nightlife e IRL, seguiti soprattutto da un pubblico giovane in Italia.
+
+I vostri occhiali, fatti a mano in Italia, sono un accessorio che nei contenuti video si nota subito.
+
+Vi scrivo per proporvi una collaborazione: per iniziare potreste inviarmi un paio di occhiali da inserire in modo naturale nei miei video, tra outfit, uscite e momenti IRL. Sono comunque aperto anche ad altre modalità, se preferite.
+
+Se vi va, vi mando qualche link ai miei contenuti per farvi un'idea.
+
+Grazie e a presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B024 · 2Jewels (MEDIA)
+
+- **Destinatario:** info@2jewels.it (generale)
+- **Oggetto:** Collaborazione TikTok con 2Jewels – Tommy (@tommibernaa)
+- **Fonte contatto:** https://www.2jewels.it/ahi/cms/contattaci.html
+
+```text
+Ciao a tutto il team 2Jewels,
+
+mi chiamo Tommy e su TikTok sono @tommibernaa: circa 26K follower, contenuti di intrattenimento e lifestyle tra serate, vita sociale e momenti IRL, con un pubblico giovane e soprattutto italiano.
+
+I vostri gioielli uomo sono il dettaglio giusto per completare i look che mostro nei miei video.
+
+L'idea sarebbe partire in modo semplice: mi inviate qualche pezzo della linea uomo e io creo contenuti TikTok autentici con i vostri prodotti indossati davvero, per esempio nei video in cui mi preparo per uscire. Se avete in mente altre forme di collaborazione, ne parliamo volentieri.
+
+Fatemi sapere se può interessarvi!
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B025 · Luca Barra (MEDIA)
+
+- **Destinatario:** info@lucabarra.it (generale)
+- **Oggetto:** Proposta di collaborazione – Tommy (@tommibernaa) x Luca Barra
+- **Fonte contatto:** https://www.lucabarra.it (pagina contatti)
+
+```text
+Ciao team Luca Barra,
+
+sono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.
+
+La vostra linea di gioielli uomo sarebbe un bel dettaglio nei look che mostro nei miei contenuti.
+
+Vi propongo una collaborazione: come prima possibilità, l'invio di qualche pezzo della linea uomo in cambio di contenuti su TikTok, dentro outfit per le serate e contenuti lifestyle. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.
+
+Se vi interessa, vi giro volentieri qualche esempio dei miei video.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+A presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B026 · Gerba (MEDIA)
+
+- **Destinatario:** info@gerba.it (generale)
+- **Oggetto:** Gerba x @tommibernaa – collaborazione TikTok
+- **Fonte contatto:** https://gerba.it/en/pages/contatti
+
+```text
+Ciao team Gerba,
+
+sono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower. Faccio contenuti di intrattenimento, lifestyle, nightlife e IRL, seguiti soprattutto da un pubblico giovane in Italia.
+
+I vostri bracciali sono un accessorio che nei video outfit si vede benissimo.
+
+Vi scrivo per proporvi una collaborazione: per iniziare potreste inviarmi qualche bracciale da inserire in modo naturale nei miei video, in look reali tra serate e giornate in giro. Sono comunque aperto anche ad altre modalità, se preferite.
+
+Se vi va, vi mando qualche link ai miei contenuti per farvi un'idea.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Grazie e a presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B027 · Olaf Hussein (MEDIA)
+
+- **Destinatario:** marketing@olafhussein.com (marketing (collaborazioni e partnership))
+- **Oggetto:** Collaboration proposal – Tommy (@tommibernaa)
+- **Fonte contatto:** https://www.olafhussein.com/pages/contact-us
+
+```text
+Hi Olaf Hussein team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+Your contact page mentions this address for collaborations and partnerships, so I wanted to share an idea.
+
+I'd love to propose a collaboration: as a first step, you could send me a few pieces and I'd feature them naturally in my TikTok content, styled in outfits for nights out and IRL videos. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B028 · Sixth June (MEDIA)
+
+- **Destinatario:** shop@sixthjune.com (generale)
+- **Oggetto:** Sixth June x @tommibernaa – creator collaboration
+- **Fonte contatto:** https://www.sixthjune.com/en/pages/contact
+
+```text
+Hi Sixth June team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+I read that you like working with content creators who share your universe, and your streetwear fits my style really well.
+
+My idea would be simple to start: you send me a few pieces and I create TikTok videos where I actually wear them, in outfits for nights out and everyday life. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B029 · Hawkers (MEDIA)
+
+- **Destinatario:** contact@hawkersco.com (generale)
+- **Oggetto:** Hawkers x @tommibernaa – TikTok collaboration
+- **Fonte contatto:** https://www.hawkersco.com (contatti + programma Hawkers Crew)
+- **Note:** Il form Hawkers Crew richiede un profilo Instagram pubblico.
+
+```text
+Hi Hawkers team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+I know Hawkers works with creators through the Hawkers Crew, and your sunglasses are a natural fit for my content.
+
+I'd love to propose a collaboration: as a first step, you could send me a pair or two of sunglasses and I'd feature them naturally in my TikTok content, in outfit videos and IRL moments. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B031 · Northskull (MEDIA)
+
+- **Destinatario:** customercare@northskull.com (customer care)
+- **Oggetto:** Northskull x @tommibernaa – men's jewellery on TikTok
+- **Fonte contatto:** https://northskull.com/contact-us.html
+
+```text
+Hi Northskull team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+I've seen the collections you've created with influencers, and your men's jewellery would be a great detail in my outfit videos.
+
+I'd love to propose a collaboration: as a first step, you could send me a few pieces and I'd feature them naturally in my TikTok content, for example in videos where I get ready before a night out. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B032 · Pompeii (MEDIA)
+
+- **Destinatario:** contact@pompeiibrand.com (generale)
+- **Oggetto:** Pompeii x @tommibernaa – TikTok collab idea
+- **Fonte contatto:** https://pompeiibrand.com/en/pages/contacto-1
+
+```text
+Hi Pompeii team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+Your street-elegant sneakers would fit perfectly with the outfits I show in my videos.
+
+My idea would be simple to start: you send me a pair of sneakers and I create TikTok videos where I actually wear them, in real outfits from day to night. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B015 · Imperial Fashion (BASSA)
+
+- **Destinatario:** customercare@imperialfashion.com (customer care)
+- **Oggetto:** Collaborazione TikTok – Tommy (@tommibernaa)
+- **Fonte contatto:** https://support.imperialfashion.com/hc/it/articles/18400386843538-Contatti
+- **Note:** La pagina Press ha contatti dell'ufficio stampa non leggibili dalla ricerca: verificarli sul sito e preferirli.
+
+```text
+Ciao a tutto il team Imperial Fashion,
+
+mi chiamo Tommy e su TikTok sono @tommibernaa: circa 26K follower, contenuti di intrattenimento e lifestyle tra serate, vita sociale e momenti IRL, con un pubblico giovane e soprattutto italiano.
+
+Il vostro stile casual e giovane è in linea con il pubblico che mi segue.
+
+L'idea sarebbe partire in modo semplice: mi inviate alcuni capi della linea uomo e io creo contenuti TikTok autentici con i vostri prodotti indossati davvero, in outfit reali tra serate e giornate in giro. Se avete in mente altre forme di collaborazione, ne parliamo volentieri.
+
+Fatemi sapere se può interessarvi!
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B019 · Hinnominate (BASSA)
+
+- **Destinatario:** customercare@hinnominate.com (customer care)
+- **Oggetto:** Collaborazione TikTok – Tommy (@tommibernaa) x Hinnominate
+- **Fonte contatto:** https://www.hinnominate.com/it/contactus/
+
+```text
+Ciao team Hinnominate,
+
+sono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.
+
+Il vostro approccio street couture si sposerebbe bene con i look delle serate che racconto nei miei video.
+
+Vi propongo una collaborazione: come prima possibilità, l'invio di uno o due capi in cambio di contenuti su TikTok, dentro look serali e contenuti lifestyle. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.
+
+Se vi interessa, vi giro volentieri qualche esempio dei miei video.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+A presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B020 · ButNot (BASSA)
+
+- **Destinatario:** info@butnot.it (generale)
+- **Oggetto:** Collaborazione TikTok – Tommy (@tommibernaa)
+- **Fonte contatto:** Risultato di ricerca (fonte non ufficiale, sito non verificato)
+- **Note:** Fonte debole: verificare l'indirizzo prima di approvare.
+
+```text
+Ciao team ButNot,
+
+sono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower. Faccio contenuti di intrattenimento, lifestyle, nightlife e IRL, seguiti soprattutto da un pubblico giovane in Italia.
+
+Il vostro streetwear si adatta bene allo stile dei miei contenuti.
+
+Vi scrivo per proporvi una collaborazione: per iniziare potreste inviarmi alcuni capi da inserire in modo naturale nei miei video, negli outfit di tutti i giorni e delle serate. Sono comunque aperto anche ad altre modalità, se preferite.
+
+Se vi va, vi mando qualche link ai miei contenuti per farvi un'idea.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Grazie e a presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B030 · Cluse (BASSA)
+
+- **Destinatario:** partnerships@cluse.com (partnership / influencer)
+- **Oggetto:** Creator collaboration – Tommy (@tommibernaa)
+- **Fonte contatto:** https://cluse.com/pages/contact + https://cluse.com/pages/ambassadors
+
+```text
+Hi Cluse team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+I saw on your website that creators can reach out about collaborations at this address.
+
+My idea would be simple to start: you send me a watch or a couple of jewellery pieces and I create TikTok videos where I actually wear them, as part of my going-out and everyday outfits. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B033 · Pegador (BASSA)
+
+- **Destinatario:** support@pegador.com (customer care)
+- **Oggetto:** TikTok creator collaboration – Tommy (@tommibernaa)
+- **Fonte contatto:** https://pegador.com/en/pages/contact-us
+
+```text
+Hi Pegador team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+Your streetwear fits the young audience that follows me really well.
+
+I'd love to propose a collaboration: as a first step, you could send me a few pieces and I'd feature them naturally in my TikTok content, in outfits for nights out and everyday content. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B034 · Arte Antwerp (BASSA)
+
+- **Destinatario:** support@arte-antwerp.com (customer care)
+- **Oggetto:** Arte x @tommibernaa – collaboration idea
+- **Fonte contatto:** https://arte-antwerp.com/pages/contact
+
+```text
+Hi Arte Antwerp team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+Your streetwear has a style that works really well in the outfits I show on TikTok.
+
+My idea would be simple to start: you send me a few pieces and I create TikTok videos where I actually wear them, styled in real outfits for nights out and everyday life. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B035 · Black Bananas (BASSA)
+
+- **Destinatario:** support@blackbananas.com (customer care)
+- **Oggetto:** Black Bananas x @tommibernaa – TikTok collaboration
+- **Fonte contatto:** https://blackbananas.com/pages/contact-us
+
+```text
+Hi Black Bananas team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+Your sporty streetwear fits the young audience that follows me.
+
+I'd love to propose a collaboration: as a first step, you could send me a few pieces and I'd feature them naturally in my TikTok content, in outfits for nights out and IRL videos. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B036 · Purewhite (BASSA)
+
+- **Destinatario:** webshop@purewhite.nl (customer care)
+- **Oggetto:** Purewhite x @tommibernaa – collaboration proposal
+- **Fonte contatto:** https://www.purewhite.nl/pages/contact-us
+
+```text
+Hi Purewhite team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+Your streetwear has a style that would fit my content really well.
+
+My idea would be simple to start: you send me a few pieces and I create TikTok videos where I actually wear them, styled in outfits for nights out and everyday life. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B037 · Komono (BASSA)
+
+- **Destinatario:** support@komono.com (customer care)
+- **Oggetto:** Komono x @tommibernaa – TikTok collaboration
+- **Fonte contatto:** https://www.komono.com/en_US/company/contact/
+
+```text
+Hi Komono team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+Your watches and sunglasses are the kind of accessories that stand out in outfit videos.
+
+I'd love to propose a collaboration: as a first step, you could send me a watch or a pair of sunglasses and I'd feature them naturally in my TikTok content, as part of my outfits in going-out and lifestyle videos. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B038 · Womsh (BASSA)
+
+- **Destinatario:** support@womsh.com (customer care)
+- **Oggetto:** Word of mouth… su TikTok – Tommy (@tommibernaa)
+- **Fonte contatto:** https://womsh.com/it/pages/contatti
+
+```text
+Ciao a tutto il team Womsh,
+
+mi chiamo Tommy e su TikTok sono @tommibernaa: circa 26K follower, contenuti di intrattenimento e lifestyle tra serate, vita sociale e momenti IRL, con un pubblico giovane e soprattutto italiano.
+
+Mi piace molto il concetto di Word Of Mouth Shoes: il passaparola è esattamente quello che succede con i contenuti su TikTok.
+
+L'idea sarebbe partire in modo semplice: mi inviate un paio di sneakers e io creo contenuti TikTok autentici con i vostri prodotti indossati davvero, nella mia vita di tutti i giorni. Se avete in mente altre forme di collaborazione, ne parliamo volentieri.
+
+Fatemi sapere se può interessarvi!
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B039 · Serge DeNimes (BASSA)
+
+- **Destinatario:** orders@sergedenimes.com (ordini)
+- **Oggetto:** Serge DeNimes x @tommibernaa – men's jewellery on TikTok
+- **Fonte contatto:** https://www.sergedenimes.com/pages/contact-us
+
+```text
+Hi Serge DeNimes team,
+
+my name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.
+
+Your men's jewellery would be a great detail in the outfits I show in my videos.
+
+My idea would be simple to start: you send me a few pieces and I create TikTok videos where I actually wear them, for example in videos where I get ready before a night out. If you have other collaboration formats in mind, I'm open to that too.
+
+Let me know if this sounds interesting!
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Cheers,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B040 · Sun68 (BASSA)
+
+- **Destinatario:** shop@sun68.com (customer care)
+- **Oggetto:** Collaborazione TikTok – Tommy (@tommibernaa) x Sun68
+- **Fonte contatto:** https://sun68.com/it_it/termini-e-condizioni
+
+```text
+Ciao team Sun68,
+
+sono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.
+
+Il vostro casual uomo è perfetto per i contenuti di tutti i giorni e per le uscite con gli amici.
+
+Vi propongo una collaborazione: come prima possibilità, l'invio di alcuni capi in cambio di contenuti su TikTok, in outfit reali che il mio pubblico vede ogni giorno. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.
+
+Se vi interessa, vi giro volentieri qualche esempio dei miei video.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+A presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B041 · RefrigiWear 1954 (BASSA)
+
+- **Destinatario:** ecommerce@refrigiwear1954.com (e-commerce)
+- **Oggetto:** Contenuti autunno/inverno con RefrigiWear – Tommy (@tommibernaa)
+- **Fonte contatto:** https://refrigiwear1954.com/en/pages/contact-us
+
+```text
+Ciao team RefrigiWear 1954,
+
+sono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower. Faccio contenuti di intrattenimento, lifestyle, nightlife e IRL, seguiti soprattutto da un pubblico giovane in Italia.
+
+Con l'arrivo dell'autunno i vostri capispalla sono perfetti per i contenuti tra uscite serali e vita in città.
+
+Vi scrivo per proporvi una collaborazione: per iniziare potreste inviarmi un capospalla da inserire in modo naturale nei miei video, tra serate e giri in città. Sono comunque aperto anche ad altre modalità, se preferite.
+
+Se vi va, vi mando qualche link ai miei contenuti per farvi un'idea.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Grazie e a presto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B042 · Bikkembergs (BASSA)
+
+- **Destinatario:** customercare@bikkembergs.com (customer care)
+- **Oggetto:** Collaborazione TikTok – Tommy (@tommibernaa) x Bikkembergs
+- **Fonte contatto:** https://www.bikkembergs.com/us-en/contact-us
+
+```text
+Ciao a tutto il team Bikkembergs,
+
+mi chiamo Tommy e su TikTok sono @tommibernaa: circa 26K follower, contenuti di intrattenimento e lifestyle tra serate, vita sociale e momenti IRL, con un pubblico giovane e soprattutto italiano.
+
+Il vostro menswear con un'anima sportiva si adatta bene al pubblico giovane che mi segue.
+
+L'idea sarebbe partire in modo semplice: mi inviate alcuni capi o un paio di sneakers e io creo contenuti TikTok autentici con i vostri prodotti indossati davvero, in outfit reali tra giorno e sera. Se avete in mente altre forme di collaborazione, ne parliamo volentieri.
+
+Fatemi sapere se può interessarvi!
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B043 · Flamingos' Life (BASSA)
+
+- **Destinatario:** contact@flamingoslife.com (generale)
+- **Oggetto:** Creator collaboration – Tommy (@tommibernaa)
+- **Fonte contatto:** https://www.flamingoslife.com
+
+```text
+Hi Flamingos' Life team,
+
+I'm Tommy, a TikTok creator from Italy (@tommibernaa) with around 26K followers. My content is entertainment, lifestyle, nightlife and IRL, and my audience is mostly young people in Italy.
+
+Your sneakers could fit nicely into my everyday content.
+
+I'd love to propose a collaboration: as a first step, you could send me a pair of sneakers and I'd feature them naturally in my TikTok content, wearing them in my everyday videos. I'm also open to discussing other ways of working together.
+
+Happy to share some examples of my videos if useful.
+
+(If this isn't the right inbox for collaborations, could you please forward it to your marketing/PR team? Thank you!)
+
+Best,
+Tommy
+TikTok: @tommibernaa
+```
+
+## B044 · Don The Fuller (BASSA)
+
+- **Destinatario:** rdg@donthefuller.it (non chiaro (possibile indirizzo personale))
+- **Oggetto:** Collaborazione TikTok – Tommy (@tommibernaa) x Don The Fuller
+- **Fonte contatto:** Risultato di ricerca (pagina contatti del brand)
+- **Note:** L'indirizzo potrebbe essere personale: approvare solo se non esiste un contatto business migliore.
+
+```text
+Ciao team Don The Fuller,
+
+sono Tommy (@tommibernaa su TikTok, circa 26K follower). Creo contenuti di intrattenimento, lifestyle e nightlife, molto IRL, per un pubblico giovane in Italia.
+
+Il vostro denim si presta molto bene ai look che mostro nei miei contenuti.
+
+Vi propongo una collaborazione: come prima possibilità, l'invio di un paio di jeans o un capo denim in cambio di contenuti su TikTok, dentro outfit per le serate e per tutti i giorni. Resto aperto a valutare anche altre modalità che funzionino meglio per voi.
+
+Se vi interessa, vi giro volentieri qualche esempio dei miei video.
+
+(Se questa non è la casella giusta per le collaborazioni, vi chiedo gentilmente di girare la mail al team marketing/PR. Grazie!)
+
+A presto,
+Tommy
+TikTok: @tommibernaa
+```
