@@ -1,6 +1,6 @@
 # REVIEW – bozze email
 
-Generato il 2026-09-28 · 49 bozze · 10 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
+Generato il 2026-09-28 · 49 bozze · 32 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
 
 | ID | Brand | Email | Categoria | Priorità | Oggetto | Approvazione | Stato |
 |---|---|---|---|---|---|---|---|
@@ -14,28 +14,28 @@ Generato il 2026-09-28 · 49 bozze · 10 inviate. Per approvare: `python3 outrea
 | B008 | Dolly Noire | assistenza@dollynoire.com | streetwear | ALTA | Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire | APPROVED | CONTATTATO |
 | B070 | Montirex | influencers@montirex.com | streetwear / athleisure | ALTA | Influencer application – Tommy (@tommibernaa, TikTok) | APPROVED | CONTATTATO |
 | B071 | Happy Socks | collaborations@happysocks.com | calze / accessori | ALTA | Happy Socks x @tommibernaa – TikTok collab idea | APPROVED | EMAIL RIMBALZATA |
-| B009 | Malelions | marketing@malelions.com | streetwear uomo | MEDIA | Malelions x @tommibernaa – collaboration proposal | PENDING | DA CONTATTARE |
-| B010 | Fred Mello | pressoffice@5fiveseasons.it | abbigliamento uomo casual | MEDIA | Proposta di collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
-| B011 | Enterprise Japan | info@enterprise-japan.com | streetwear / sneakers | MEDIA | Enterprise Japan x @tommibernaa – idea per TikTok | PENDING | DA CONTATTARE |
-| B012 | Takeshy Kurosawa | info@takeshykurosawa.com | abbigliamento uomo (total look) | MEDIA | Collaborazione TikTok con Takeshy Kurosawa – Tommy | PENDING | DA CONTATTARE |
-| B013 | Sseinse | info@sseinse.com | abbigliamento uomo | MEDIA | Proposta di collaborazione – Tommy (@tommibernaa) x Sseinse | PENDING | DA CONTATTARE |
-| B014 | Antony Morato | press@antonymorato.it | abbigliamento uomo | MEDIA | Collaborazione creator TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
-| B016 | Iuter | info@iuter.com | streetwear | MEDIA | IUTER x @tommibernaa – proposta di collaborazione | PENDING | DA CONTATTARE |
-| B017 | Octopus | store@octopusbrand.com | streetwear | MEDIA | Octopus x @tommibernaa – collaborazione TikTok | PENDING | DA CONTATTARE |
-| B018 | Vision of Super | customerservice@visionofsuper.com | streetwear | MEDIA | Vision of Super x @tommibernaa – idea per TikTok | PENDING | DA CONTATTARE |
-| B021 | Ghoud | mkt@ghoud.com | sneakers | MEDIA | Ghoud x @tommibernaa – collaborazione TikTok | PENDING | DA CONTATTARE |
-| B022 | P448 | contact@p448.com | sneakers | MEDIA | P448 x @tommibernaa – proposta di collaborazione | PENDING | DA CONTATTARE |
-| B023 | Spektre | press@infospektre.com | occhiali da sole | MEDIA | Spektre x @tommibernaa – occhiali in video | PENDING | DA CONTATTARE |
-| B024 | 2Jewels | info@2jewels.it | gioielli uomo | MEDIA | Collaborazione TikTok con 2Jewels – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
-| B025 | Luca Barra | info@lucabarra.it | gioielli uomo/donna | MEDIA | Proposta di collaborazione – Tommy (@tommibernaa) x Luca Barra | PENDING | DA CONTATTARE |
-| B026 | Gerba | info@gerba.it | bracciali / gioielli uomo | MEDIA | Gerba x @tommibernaa – collaborazione TikTok | PENDING | DA CONTATTARE |
-| B027 | Olaf Hussein | marketing@olafhussein.com | streetwear premium | MEDIA | Collaboration proposal – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
-| B028 | Sixth June | shop@sixthjune.com | streetwear | MEDIA | Sixth June x @tommibernaa – creator collaboration | PENDING | DA CONTATTARE |
-| B029 | Hawkers | contact@hawkersco.com | occhiali da sole | MEDIA | Hawkers x @tommibernaa – TikTok collaboration | PENDING | DA CONTATTARE |
-| B031 | Northskull | customercare@northskull.com | gioielli uomo | MEDIA | Northskull x @tommibernaa – men's jewellery on TikTok | PENDING | DA CONTATTARE |
-| B032 | Pompeii | contact@pompeiibrand.com | sneakers | MEDIA | Pompeii x @tommibernaa – TikTok collab idea | PENDING | DA CONTATTARE |
-| B072 | Gianni Lupo | info@giannilupo.it | abbigliamento uomo | MEDIA | Collaborazione TikTok – Tommy (@tommibernaa) x Gianni Lupo | PENDING | DA CONTATTARE |
-| B073 | The Couture Club | info@thecoutureclub.co.uk | streetwear | MEDIA | The Couture Club x @tommibernaa – collaboration idea | PENDING | DA CONTATTARE |
+| B009 | Malelions | marketing@malelions.com | streetwear uomo | MEDIA | Malelions x @tommibernaa – collaboration proposal | APPROVED | CONTATTATO |
+| B010 | Fred Mello | pressoffice@5fiveseasons.it | abbigliamento uomo casual | MEDIA | Proposta di collaborazione TikTok – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
+| B011 | Enterprise Japan | info@enterprise-japan.com | streetwear / sneakers | MEDIA | Enterprise Japan x @tommibernaa – idea per TikTok | APPROVED | CONTATTATO |
+| B012 | Takeshy Kurosawa | info@takeshykurosawa.com | abbigliamento uomo (total look) | MEDIA | Collaborazione TikTok con Takeshy Kurosawa – Tommy | APPROVED | CONTATTATO |
+| B013 | Sseinse | info@sseinse.com | abbigliamento uomo | MEDIA | Proposta di collaborazione – Tommy (@tommibernaa) x Sseinse | APPROVED | CONTATTATO |
+| B014 | Antony Morato | press@antonymorato.it | abbigliamento uomo | MEDIA | Collaborazione creator TikTok – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
+| B016 | Iuter | info@iuter.com | streetwear | MEDIA | IUTER x @tommibernaa – proposta di collaborazione | APPROVED | CONTATTATO |
+| B017 | Octopus | store@octopusbrand.com | streetwear | MEDIA | Octopus x @tommibernaa – collaborazione TikTok | APPROVED | CONTATTATO |
+| B018 | Vision of Super | customerservice@visionofsuper.com | streetwear | MEDIA | Vision of Super x @tommibernaa – idea per TikTok | APPROVED | CONTATTATO |
+| B021 | Ghoud | mkt@ghoud.com | sneakers | MEDIA | Ghoud x @tommibernaa – collaborazione TikTok | APPROVED | CONTATTATO |
+| B022 | P448 | contact@p448.com | sneakers | MEDIA | P448 x @tommibernaa – proposta di collaborazione | APPROVED | CONTATTATO |
+| B023 | Spektre | press@infospektre.com | occhiali da sole | MEDIA | Spektre x @tommibernaa – occhiali in video | APPROVED | CONTATTATO |
+| B024 | 2Jewels | info@2jewels.it | gioielli uomo | MEDIA | Collaborazione TikTok con 2Jewels – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
+| B025 | Luca Barra | info@lucabarra.it | gioielli uomo/donna | MEDIA | Proposta di collaborazione – Tommy (@tommibernaa) x Luca Barra | APPROVED | CONTATTATO |
+| B026 | Gerba | info@gerba.it | bracciali / gioielli uomo | MEDIA | Gerba x @tommibernaa – collaborazione TikTok | APPROVED | CONTATTATO |
+| B027 | Olaf Hussein | marketing@olafhussein.com | streetwear premium | MEDIA | Collaboration proposal – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
+| B028 | Sixth June | shop@sixthjune.com | streetwear | MEDIA | Sixth June x @tommibernaa – creator collaboration | APPROVED | CONTATTATO |
+| B029 | Hawkers | contact@hawkersco.com | occhiali da sole | MEDIA | Hawkers x @tommibernaa – TikTok collaboration | APPROVED | CONTATTATO |
+| B031 | Northskull | customercare@northskull.com | gioielli uomo | MEDIA | Northskull x @tommibernaa – men's jewellery on TikTok | APPROVED | CONTATTATO |
+| B032 | Pompeii | contact@pompeiibrand.com | sneakers | MEDIA | Pompeii x @tommibernaa – TikTok collab idea | APPROVED | CONTATTATO |
+| B072 | Gianni Lupo | info@giannilupo.it | abbigliamento uomo | MEDIA | Collaborazione TikTok – Tommy (@tommibernaa) x Gianni Lupo | APPROVED | CONTATTATO |
+| B073 | The Couture Club | info@thecoutureclub.co.uk | streetwear | MEDIA | The Couture Club x @tommibernaa – collaboration idea | APPROVED | CONTATTATO |
 | B015 | Imperial Fashion | customercare@imperialfashion.com | abbigliamento uomo/donna | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
 | B019 | Hinnominate | customercare@hinnominate.com | street couture | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) x Hinnominate | PENDING | DA CONTATTARE |
 | B020 | ButNot | info@butnot.it | streetwear | BASSA | Collaborazione TikTok – Tommy (@tommibernaa) | PENDING | DA CONTATTARE |
