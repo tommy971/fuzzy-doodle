@@ -752,5 +752,31 @@
     "approved_at": "2026-09-28T16:08:30",
     "sent_at": "2026-09-28",
     "followup": null
+  },
+  {
+    "id": "B093",
+    "brand": "Octopus",
+    "to": "marketing@youthsrl.com",
+    "language": "it",
+    "subject": "Octopus x @tommibernaa – collaborazione TikTok",
+    "body": "Ciao team Octopus,\n\nil vostro supporto clienti (richiesta 38152) mi ha indicato questo indirizzo per le collaborazioni, quindi vi scrivo qui.\n\nSono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower. Faccio contenuti di intrattenimento, lifestyle, nightlife e IRL, seguiti soprattutto da un pubblico giovane in Italia.\n\nIl vostro streetwear ha uno stile che si abbina benissimo ai miei outfit, e mi piacerebbe proporvi una collaborazione: per iniziare potreste inviarmi alcuni capi da inserire in modo naturale nei miei video, negli outfit delle serate e di tutti i giorni. Sono comunque aperto anche ad altre modalità, se preferite.\n\nSe vi va, vi mando qualche link ai miei contenuti per farvi un'idea.\n\nGrazie e a presto,\nTommy\nTikTok: @tommibernaa",
+    "personalization_basis": "Risposta del supporto Youth srl a B017 (richiesta 38152, 28/09/2026): 'scrivi a marketing@youthsrl.com'",
+    "approval": "PENDING",
+    "approved_at": "",
+    "sent_at": "",
+    "followup": null
+  },
+  {
+    "id": "B094",
+    "brand": "Happy Socks",
+    "to": "marketing@happysocks.com",
+    "language": "en",
+    "subject": "Happy Socks x @tommibernaa – TikTok collab idea",
+    "body": "Hi Happy Socks team,\n\nmy name is Tommy and I create TikTok content as @tommibernaa (around 26K followers): entertainment, lifestyle, nights out and IRL moments, for a young, mostly Italian audience.\n\nColourful socks are exactly the kind of detail that stands out in outfit videos, so I'd love to propose a collaboration.\n\nMy idea would be simple to start: you send me a few pairs and I create TikTok videos where I actually wear them, styled in real outfits for nights out and everyday life. If you have other collaboration formats in mind, I'm open to that too.\n\nLet me know if this sounds interesting!\n\nCheers,\nTommy\nTikTok: @tommibernaa",
+    "personalization_basis": "https://support.happysocks.com/hc/en-us/articles/206379816-I-have-a-marketing-or-partnership-request-whom-do-I-contact-",
+    "approval": "PENDING",
+    "approved_at": "",
+    "sent_at": "",
+    "followup": null
   }
 ]
