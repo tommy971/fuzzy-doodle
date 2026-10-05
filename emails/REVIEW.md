@@ -1,21 +1,22 @@
 # REVIEW – bozze email
 
-Generato il 2026-09-29 · 60 bozze · 38 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
+Generato il 2026-10-05 · 61 bozze · 38 inviate. Per approvare: `python3 outreach.py approve ID ...` (o chiedilo a Claude in chat).
 
 | ID | Brand | Email | Categoria | Priorità | Oggetto | Approvazione | Stato |
 |---|---|---|---|---|---|---|---|
-| B001 | Quotrell | marketing@quotrell.com | streetwear / casual | ALTA | Creator collaboration – Tommy (@tommibernaa) x Quotrell | APPROVED | CONTATTATO |
+| B001 | Quotrell | marketing@quotrell.com | streetwear / casual | ALTA | Creator collaboration – Tommy (@tommibernaa) x Quotrell | APPROVED | NON INTERESSATO |
 | B002 | Colourful Rebel | pr@colourfulrebel.com | streetwear / casual | ALTA | Colourful Rebel x @tommibernaa – TikTok collab idea | APPROVED | CONTATTATO |
 | B003 | Kapten & Son | press@kapten-son.com | accessori (zaini, orologi, occhiali) | ALTA | Influencer enquiry – Tommy (@tommibernaa, TikTok) | APPROVED | CONTATTATO |
 | B004 | Nove25 | marketing@nove25.net | gioielli uomo (argento) | ALTA | Candidatura ambassador – Tommy (@tommibernaa, TikTok) | APPROVED | CONTATTATO |
 | B005 | Ngiolet Jeans | info@ngioletjeans.com | jeans e abbigliamento uomo | ALTA | Brand ambassador Ngiolet – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
 | B006 | Horda Brand | info@hordabrand.com | streetwear Made in Italy | ALTA | Collaborazione TikTok con Horda – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
 | B007 | Phobia Archive | hello@phobia-archive.com | streetwear | ALTA | Phobia Archive x @tommibernaa – proposta di collaborazione | APPROVED | EMAIL RIMBALZATA |
-| B008 | Dolly Noire | assistenza@dollynoire.com | streetwear | ALTA | Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire | APPROVED | CONTATTATO |
+| B008 | Dolly Noire | assistenza@dollynoire.com | streetwear | ALTA | Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire | APPROVED | RISPOSTO |
 | B070 | Montirex | influencers@montirex.com | streetwear / athleisure | ALTA | Influencer application – Tommy (@tommibernaa, TikTok) | APPROVED | CONTATTATO |
 | B071 | Happy Socks | collaborations@happysocks.com | calze / accessori | ALTA | Happy Socks x @tommibernaa – TikTok collab idea | APPROVED | EMAIL RIMBALZATA |
 | B092 | Scuffers | help@scuffers.com | streetwear (felpe, hoodie) | ALTA | Scuffers x @tommibernaa – creator collaboration | APPROVED | CONTATTATO |
 | B093 | Octopus | marketing@youthsrl.com | streetwear | ALTA | Octopus x @tommibernaa – collaborazione TikTok | PENDING | DA CONTATTARE |
+| B095 | Dolly Noire | sponsor@dollynoire.com | streetwear | ALTA | Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire | PENDING | DA CONTATTARE |
 | B009 | Malelions | marketing@malelions.com | streetwear uomo | MEDIA | Malelions x @tommibernaa – collaboration proposal | APPROVED | CONTATTATO |
 | B010 | Fred Mello | pressoffice@5fiveseasons.it | abbigliamento uomo casual | MEDIA | Proposta di collaborazione TikTok – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
 | B011 | Enterprise Japan | info@enterprise-japan.com | streetwear / sneakers | MEDIA | Enterprise Japan x @tommibernaa – idea per TikTok | APPROVED | CONTATTATO |
@@ -28,7 +29,7 @@ Generato il 2026-09-29 · 60 bozze · 38 inviate. Per approvare: `python3 outrea
 | B021 | Ghoud | mkt@ghoud.com | sneakers | MEDIA | Ghoud x @tommibernaa – collaborazione TikTok | APPROVED | CONTATTATO |
 | B022 | P448 | contact@p448.com | sneakers | MEDIA | P448 x @tommibernaa – proposta di collaborazione | APPROVED | RISPOSTO |
 | B023 | Spektre | press@infospektre.com | occhiali da sole | MEDIA | Spektre x @tommibernaa – occhiali in video | APPROVED | CONTATTATO |
-| B024 | 2Jewels | info@2jewels.it | gioielli uomo | MEDIA | Collaborazione TikTok con 2Jewels – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
+| B024 | 2Jewels | info@2jewels.it | gioielli uomo | MEDIA | Collaborazione TikTok con 2Jewels – Tommy (@tommibernaa) | APPROVED | EMAIL RIMBALZATA |
 | B025 | Luca Barra | info@lucabarra.it | gioielli uomo/donna | MEDIA | Proposta di collaborazione – Tommy (@tommibernaa) x Luca Barra | APPROVED | CONTATTATO |
 | B026 | Gerba | info@gerba.it | bracciali / gioielli uomo | MEDIA | Gerba x @tommibernaa – collaborazione TikTok | APPROVED | CONTATTATO |
 | B027 | Olaf Hussein | marketing@olafhussein.com | streetwear premium | MEDIA | Collaboration proposal – Tommy (@tommibernaa) | APPROVED | CONTATTATO |
@@ -347,6 +348,29 @@ Tommy
 TikTok: @tommibernaa
 ```
 
+## B095 · Dolly Noire (ALTA)
+
+- **Destinatario:** sponsor@dollynoire.com (collaborazioni creator (indicato dal brand))
+- **Oggetto:** Collaborazione TikTok – Tommy (@tommibernaa) x Dolly Noire
+- **Fonte contatto:** Risposta di assistenza@dollynoire.com a B008 (28/09/2026): 'la casella dedicata è sponsor@dollynoire.com'
+- **Note:** Seguito di B008 (assistenza@ -> reindirizzati a sponsor@).
+
+```text
+Ciao team Dolly Noire,
+
+il vostro servizio clienti mi ha indicato questo indirizzo per le collaborazioni con i creator, quindi vi riscrivo qui.
+
+Sono Tommy, creator su TikTok (@tommibernaa) con circa 26K follower: faccio contenuti di intrattenimento e lifestyle tra serate, vita sociale e momenti IRL, con un pubblico giovane e soprattutto italiano.
+
+Dolly Noire è uno dei brand streetwear milanesi più vicini ai ragazzi della mia età, e mi piacerebbe proporvi una collaborazione semplice per iniziare: mi inviate qualche capo della collezione e io creo contenuti TikTok autentici con i vostri prodotti indossati davvero, tra serate, uscite con gli amici e momenti di vita quotidiana. Se avete in mente altre forme di collaborazione, ne parliamo volentieri.
+
+Se vi va, vi mando qualche link ai miei contenuti per farvi un'idea.
+
+Un saluto,
+Tommy
+TikTok: @tommibernaa
+```
+
 ## B009 · Malelions (MEDIA)
 
 - **Destinatario:** marketing@malelions.com (marketing)
@@ -637,6 +661,7 @@ TikTok: @tommibernaa
 - **Destinatario:** info@2jewels.it (generale)
 - **Oggetto:** Collaborazione TikTok con 2Jewels – Tommy (@tommibernaa)
 - **Fonte contatto:** https://www.2jewels.it/ahi/cms/contattaci.html
+- **Note:** rimbalzata 2026-10-05: casella info@2jewels.it piena dopo 48h di tentativi (DSN 1a0f84ec4d9f713d, 01/10)
 
 ```text
 Ciao a tutto il team 2Jewels,
